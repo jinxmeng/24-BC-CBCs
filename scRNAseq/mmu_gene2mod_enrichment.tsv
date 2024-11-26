@@ -1,0 +1,1397 @@
+module	ID
+"M00001:Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate"	15277
+"M00001:Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate"	212032
+"M00001:Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate"	15275
+"M00001:Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate"	216019
+"M00001:Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate"	103988
+"M00001:Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate"	72141
+"M00001:Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate"	14751
+"M00001:Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate"	18641
+"M00001:Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate"	18642
+"M00001:Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate"	56421
+"M00001:Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate"	11674
+"M00001:Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate"	230163
+"M00001:Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate"	11676
+"M00001:Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate"	353204
+"M00001:Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate"	79459
+"M00001:Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate"	21991
+"M00001:Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate"	14433
+"M00001:Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate"	115487111
+"M00001:Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate"	18655
+"M00001:Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate"	18663
+"M00001:Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate"	18648
+"M00001:Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate"	56012
+"M00001:Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate"	13806
+"M00001:Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate"	13807
+"M00001:Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate"	13808
+"M00001:Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate"	433182
+"M00001:Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate"	226265
+"M00001:Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate"	18746
+"M00001:Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate"	18770
+"M00002:Glycolysis, core module involving three-carbon compounds"	21991
+"M00002:Glycolysis, core module involving three-carbon compounds"	14433
+"M00002:Glycolysis, core module involving three-carbon compounds"	115487111
+"M00002:Glycolysis, core module involving three-carbon compounds"	18655
+"M00002:Glycolysis, core module involving three-carbon compounds"	18663
+"M00002:Glycolysis, core module involving three-carbon compounds"	18648
+"M00002:Glycolysis, core module involving three-carbon compounds"	56012
+"M00002:Glycolysis, core module involving three-carbon compounds"	13806
+"M00002:Glycolysis, core module involving three-carbon compounds"	13807
+"M00002:Glycolysis, core module involving three-carbon compounds"	13808
+"M00002:Glycolysis, core module involving three-carbon compounds"	433182
+"M00002:Glycolysis, core module involving three-carbon compounds"	226265
+"M00002:Glycolysis, core module involving three-carbon compounds"	18746
+"M00002:Glycolysis, core module involving three-carbon compounds"	18770
+"M00003:Gluconeogenesis, oxaloacetate => fructose-6P"	18534
+"M00003:Gluconeogenesis, oxaloacetate => fructose-6P"	74551
+"M00003:Gluconeogenesis, oxaloacetate => fructose-6P"	13806
+"M00003:Gluconeogenesis, oxaloacetate => fructose-6P"	13807
+"M00003:Gluconeogenesis, oxaloacetate => fructose-6P"	13808
+"M00003:Gluconeogenesis, oxaloacetate => fructose-6P"	433182
+"M00003:Gluconeogenesis, oxaloacetate => fructose-6P"	226265
+"M00003:Gluconeogenesis, oxaloacetate => fructose-6P"	18648
+"M00003:Gluconeogenesis, oxaloacetate => fructose-6P"	56012
+"M00003:Gluconeogenesis, oxaloacetate => fructose-6P"	18655
+"M00003:Gluconeogenesis, oxaloacetate => fructose-6P"	18663
+"M00003:Gluconeogenesis, oxaloacetate => fructose-6P"	14433
+"M00003:Gluconeogenesis, oxaloacetate => fructose-6P"	115487111
+"M00003:Gluconeogenesis, oxaloacetate => fructose-6P"	21991
+"M00003:Gluconeogenesis, oxaloacetate => fructose-6P"	11674
+"M00003:Gluconeogenesis, oxaloacetate => fructose-6P"	230163
+"M00003:Gluconeogenesis, oxaloacetate => fructose-6P"	11676
+"M00003:Gluconeogenesis, oxaloacetate => fructose-6P"	353204
+"M00003:Gluconeogenesis, oxaloacetate => fructose-6P"	79459
+"M00003:Gluconeogenesis, oxaloacetate => fructose-6P"	14121
+"M00003:Gluconeogenesis, oxaloacetate => fructose-6P"	14120
+M00004:Pentose phosphate pathway (Pentose phosphate cycle)	100198
+M00004:Pentose phosphate pathway (Pentose phosphate cycle)	14380
+M00004:Pentose phosphate pathway (Pentose phosphate cycle)	14381
+M00004:Pentose phosphate pathway (Pentose phosphate cycle)	66171
+M00004:Pentose phosphate pathway (Pentose phosphate cycle)	110208
+M00004:Pentose phosphate pathway (Pentose phosphate cycle)	66646
+M00004:Pentose phosphate pathway (Pentose phosphate cycle)	19895
+M00004:Pentose phosphate pathway (Pentose phosphate cycle)	21881
+M00004:Pentose phosphate pathway (Pentose phosphate cycle)	83553
+M00004:Pentose phosphate pathway (Pentose phosphate cycle)	74419
+M00004:Pentose phosphate pathway (Pentose phosphate cycle)	21351
+M00004:Pentose phosphate pathway (Pentose phosphate cycle)	14751
+"M00005:PRPP biosynthesis, ribose 5P => PRPP"	19139
+"M00005:PRPP biosynthesis, ribose 5P => PRPP"	110639
+"M00005:PRPP biosynthesis, ribose 5P => PRPP"	328099
+"M00005:PRPP biosynthesis, ribose 5P => PRPP"	75456
+"M00006:Pentose phosphate pathway, oxidative phase, glucose 6P => ribulose 5P"	100198
+"M00006:Pentose phosphate pathway, oxidative phase, glucose 6P => ribulose 5P"	14380
+"M00006:Pentose phosphate pathway, oxidative phase, glucose 6P => ribulose 5P"	14381
+"M00006:Pentose phosphate pathway, oxidative phase, glucose 6P => ribulose 5P"	66171
+"M00006:Pentose phosphate pathway, oxidative phase, glucose 6P => ribulose 5P"	110208
+"M00007:Pentose phosphate pathway, non-oxidative phase, fructose 6P => ribose 5P"	21881
+"M00007:Pentose phosphate pathway, non-oxidative phase, fructose 6P => ribose 5P"	83553
+"M00007:Pentose phosphate pathway, non-oxidative phase, fructose 6P => ribose 5P"	74419
+"M00007:Pentose phosphate pathway, non-oxidative phase, fructose 6P => ribose 5P"	21351
+"M00007:Pentose phosphate pathway, non-oxidative phase, fructose 6P => ribose 5P"	66646
+"M00007:Pentose phosphate pathway, non-oxidative phase, fructose 6P => ribose 5P"	19895
+"M00008:Entner-Doudoroff pathway, glucose-6P => glyceraldehyde-3P + pyruvate"	14380
+"M00008:Entner-Doudoroff pathway, glucose-6P => glyceraldehyde-3P + pyruvate"	14381
+"M00008:Entner-Doudoroff pathway, glucose-6P => glyceraldehyde-3P + pyruvate"	66171
+"M00009:Citrate cycle (TCA cycle, Krebs cycle)"	12974
+"M00009:Citrate cycle (TCA cycle, Krebs cycle)"	71832
+"M00009:Citrate cycle (TCA cycle, Krebs cycle)"	11429
+"M00009:Citrate cycle (TCA cycle, Krebs cycle)"	11428
+"M00009:Citrate cycle (TCA cycle, Krebs cycle)"	15926
+"M00009:Citrate cycle (TCA cycle, Krebs cycle)"	269951
+"M00009:Citrate cycle (TCA cycle, Krebs cycle)"	15929
+"M00009:Citrate cycle (TCA cycle, Krebs cycle)"	67834
+"M00009:Citrate cycle (TCA cycle, Krebs cycle)"	170718
+"M00009:Citrate cycle (TCA cycle, Krebs cycle)"	243996
+"M00009:Citrate cycle (TCA cycle, Krebs cycle)"	18293
+"M00009:Citrate cycle (TCA cycle, Krebs cycle)"	239017
+"M00009:Citrate cycle (TCA cycle, Krebs cycle)"	78920
+"M00009:Citrate cycle (TCA cycle, Krebs cycle)"	13382
+"M00009:Citrate cycle (TCA cycle, Krebs cycle)"	56451
+"M00009:Citrate cycle (TCA cycle, Krebs cycle)"	20917
+"M00009:Citrate cycle (TCA cycle, Krebs cycle)"	20916
+"M00009:Citrate cycle (TCA cycle, Krebs cycle)"	66945
+"M00009:Citrate cycle (TCA cycle, Krebs cycle)"	67680
+"M00009:Citrate cycle (TCA cycle, Krebs cycle)"	66052
+"M00009:Citrate cycle (TCA cycle, Krebs cycle)"	66925
+"M00009:Citrate cycle (TCA cycle, Krebs cycle)"	14194
+"M00009:Citrate cycle (TCA cycle, Krebs cycle)"	17448
+"M00009:Citrate cycle (TCA cycle, Krebs cycle)"	17449
+"M00010:Citrate cycle, first carbon oxidation, oxaloacetate => 2-oxoglutarate"	12974
+"M00010:Citrate cycle, first carbon oxidation, oxaloacetate => 2-oxoglutarate"	71832
+"M00010:Citrate cycle, first carbon oxidation, oxaloacetate => 2-oxoglutarate"	11429
+"M00010:Citrate cycle, first carbon oxidation, oxaloacetate => 2-oxoglutarate"	11428
+"M00010:Citrate cycle, first carbon oxidation, oxaloacetate => 2-oxoglutarate"	15926
+"M00010:Citrate cycle, first carbon oxidation, oxaloacetate => 2-oxoglutarate"	269951
+"M00010:Citrate cycle, first carbon oxidation, oxaloacetate => 2-oxoglutarate"	15929
+"M00010:Citrate cycle, first carbon oxidation, oxaloacetate => 2-oxoglutarate"	67834
+"M00010:Citrate cycle, first carbon oxidation, oxaloacetate => 2-oxoglutarate"	170718
+"M00010:Citrate cycle, first carbon oxidation, oxaloacetate => 2-oxoglutarate"	243996
+"M00011:Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate"	18293
+"M00011:Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate"	239017
+"M00011:Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate"	78920
+"M00011:Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate"	13382
+"M00011:Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate"	56451
+"M00011:Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate"	20917
+"M00011:Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate"	20916
+"M00011:Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate"	66945
+"M00011:Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate"	67680
+"M00011:Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate"	66052
+"M00011:Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate"	66925
+"M00011:Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate"	14194
+"M00011:Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate"	17448
+"M00011:Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate"	17449
+M00012:Glyoxylate cycle	12974
+M00012:Glyoxylate cycle	71832
+M00012:Glyoxylate cycle	11429
+M00012:Glyoxylate cycle	11428
+M00012:Glyoxylate cycle	17448
+M00012:Glyoxylate cycle	17449
+"M00013:Malonate semialdehyde pathway, propanoyl-CoA => acetyl-CoA"	11409
+"M00013:Malonate semialdehyde pathway, propanoyl-CoA => acetyl-CoA"	80911
+"M00013:Malonate semialdehyde pathway, propanoyl-CoA => acetyl-CoA"	11430
+"M00013:Malonate semialdehyde pathway, propanoyl-CoA => acetyl-CoA"	93747
+"M00013:Malonate semialdehyde pathway, propanoyl-CoA => acetyl-CoA"	227095
+"M00013:Malonate semialdehyde pathway, propanoyl-CoA => acetyl-CoA"	104776
+M00014:Glucuronate pathway (uronate pathway)	22235
+M00014:Glucuronate pathway (uronate pathway)	22238
+M00014:Glucuronate pathway (uronate pathway)	22236
+M00014:Glucuronate pathway (uronate pathway)	94284
+M00014:Glucuronate pathway (uronate pathway)	94215
+M00014:Glucuronate pathway (uronate pathway)	394434
+M00014:Glucuronate pathway (uronate pathway)	394430
+M00014:Glucuronate pathway (uronate pathway)	394432
+M00014:Glucuronate pathway (uronate pathway)	394433
+M00014:Glucuronate pathway (uronate pathway)	72094
+M00014:Glucuronate pathway (uronate pathway)	552899
+M00014:Glucuronate pathway (uronate pathway)	71773
+M00014:Glucuronate pathway (uronate pathway)	394435
+M00014:Glucuronate pathway (uronate pathway)	394436
+M00014:Glucuronate pathway (uronate pathway)	100727
+M00014:Glucuronate pathway (uronate pathway)	231396
+M00014:Glucuronate pathway (uronate pathway)	100559
+M00014:Glucuronate pathway (uronate pathway)	112417
+M00014:Glucuronate pathway (uronate pathway)	243085
+M00014:Glucuronate pathway (uronate pathway)	613123
+M00014:Glucuronate pathway (uronate pathway)	110006
+M00014:Glucuronate pathway (uronate pathway)	16591
+M00014:Glucuronate pathway (uronate pathway)	58810
+M00014:Glucuronate pathway (uronate pathway)	68631
+M00014:Glucuronate pathway (uronate pathway)	67880
+M00014:Glucuronate pathway (uronate pathway)	20322
+M00014:Glucuronate pathway (uronate pathway)	102448
+"M00015:Proline biosynthesis, glutamate => proline"	56454
+"M00015:Proline biosynthesis, glutamate => proline"	209027
+"M00015:Proline biosynthesis, glutamate => proline"	69051
+"M00015:Proline biosynthesis, glutamate => proline"	66194
+"M00017:Methionine biosynthesis, aspartate => homoserine => methionine"	238505
+"M00019:Valine/isoleucine biosynthesis, pyruvate => valine / 2-oxobutanoate => isoleucine"	12035
+"M00019:Valine/isoleucine biosynthesis, pyruvate => valine / 2-oxobutanoate => isoleucine"	12036
+"M00020:Serine biosynthesis, glycerate-3P => serine"	236539
+"M00020:Serine biosynthesis, glycerate-3P => serine"	107272
+"M00020:Serine biosynthesis, glycerate-3P => serine"	100678
+M00027:GABA (gamma-Aminobutyrate) shunt	14415
+M00027:GABA (gamma-Aminobutyrate) shunt	14417
+M00027:GABA (gamma-Aminobutyrate) shunt	268860
+M00027:GABA (gamma-Aminobutyrate) shunt	214579
+"M00028:Ornithine biosynthesis, glutamate => ornithine"	109652
+M00029:Urea cycle	227231
+M00029:Urea cycle	18416
+M00029:Urea cycle	11898
+M00029:Urea cycle	109900
+M00029:Urea cycle	11846
+M00029:Urea cycle	11847
+"M00032:Lysine degradation, lysine => saccharopine => acetoacetyl-CoA"	30956
+"M00032:Lysine degradation, lysine => saccharopine => acetoacetyl-CoA"	110695
+"M00032:Lysine degradation, lysine => saccharopine => acetoacetyl-CoA"	23923
+"M00032:Lysine degradation, lysine => saccharopine => acetoacetyl-CoA"	209692
+"M00032:Lysine degradation, lysine => saccharopine => acetoacetyl-CoA"	78920
+"M00032:Lysine degradation, lysine => saccharopine => acetoacetyl-CoA"	13382
+"M00032:Lysine degradation, lysine => saccharopine => acetoacetyl-CoA"	270076
+"M00032:Lysine degradation, lysine => saccharopine => acetoacetyl-CoA"	74147
+"M00032:Lysine degradation, lysine => saccharopine => acetoacetyl-CoA"	97212
+"M00032:Lysine degradation, lysine => saccharopine => acetoacetyl-CoA"	93747
+"M00032:Lysine degradation, lysine => saccharopine => acetoacetyl-CoA"	15107
+M00034:Methionine salvage pathway	11720
+M00034:Methionine salvage pathway	232087
+M00034:Methionine salvage pathway	108645
+M00034:Methionine salvage pathway	11702
+M00034:Methionine salvage pathway	100041585
+M00034:Methionine salvage pathway	20810
+M00034:Methionine salvage pathway	66902
+M00034:Methionine salvage pathway	210808
+M00034:Methionine salvage pathway	67873
+M00034:Methionine salvage pathway	56369
+M00034:Methionine salvage pathway	67870
+M00034:Methionine salvage pathway	104923
+M00034:Methionine salvage pathway	234724
+M00035:Methionine degradation	11720
+M00035:Methionine degradation	232087
+M00035:Methionine degradation	108645
+M00035:Methionine degradation	14711
+M00035:Methionine degradation	13433
+M00035:Methionine degradation	13435
+M00035:Methionine degradation	13436
+M00035:Methionine degradation	269378
+M00035:Methionine degradation	229709
+M00035:Methionine degradation	74340
+M00035:Methionine degradation	11615
+M00035:Methionine degradation	12411
+"M00036:Leucine degradation, leucine => acetoacetate + acetyl-CoA"	12035
+"M00036:Leucine degradation, leucine => acetoacetate + acetyl-CoA"	12036
+"M00036:Leucine degradation, leucine => acetoacetate + acetyl-CoA"	12039
+"M00036:Leucine degradation, leucine => acetoacetate + acetyl-CoA"	12040
+"M00036:Leucine degradation, leucine => acetoacetate + acetyl-CoA"	13171
+"M00036:Leucine degradation, leucine => acetoacetate + acetyl-CoA"	13382
+"M00036:Leucine degradation, leucine => acetoacetate + acetyl-CoA"	56357
+"M00036:Leucine degradation, leucine => acetoacetate + acetyl-CoA"	11364
+"M00036:Leucine degradation, leucine => acetoacetate + acetyl-CoA"	72039
+"M00036:Leucine degradation, leucine => acetoacetate + acetyl-CoA"	78038
+"M00036:Leucine degradation, leucine => acetoacetate + acetyl-CoA"	11992
+"M00036:Leucine degradation, leucine => acetoacetate + acetyl-CoA"	15356
+"M00036:Leucine degradation, leucine => acetoacetate + acetyl-CoA"	208982
+"M00037:Melatonin biosynthesis, animals, tryptophan => serotonin => melatonin"	21990
+"M00037:Melatonin biosynthesis, animals, tryptophan => serotonin => melatonin"	216343
+"M00037:Melatonin biosynthesis, animals, tryptophan => serotonin => melatonin"	13195
+"M00037:Melatonin biosynthesis, animals, tryptophan => serotonin => melatonin"	11298
+"M00037:Melatonin biosynthesis, animals, tryptophan => serotonin => melatonin"	107626
+"M00038:Tryptophan metabolism, tryptophan => kynurenine => 2-aminomuconate"	56720
+"M00038:Tryptophan metabolism, tryptophan => kynurenine => 2-aminomuconate"	15930
+"M00038:Tryptophan metabolism, tryptophan => kynurenine => 2-aminomuconate"	209176
+"M00038:Tryptophan metabolism, tryptophan => kynurenine => 2-aminomuconate"	71562
+"M00038:Tryptophan metabolism, tryptophan => kynurenine => 2-aminomuconate"	98256
+"M00038:Tryptophan metabolism, tryptophan => kynurenine => 2-aminomuconate"	70789
+"M00038:Tryptophan metabolism, tryptophan => kynurenine => 2-aminomuconate"	107766
+"M00038:Tryptophan metabolism, tryptophan => kynurenine => 2-aminomuconate"	266645
+"M00038:Tryptophan metabolism, tryptophan => kynurenine => 2-aminomuconate"	237320
+"M00042:Catecholamine biosynthesis, tyrosine => dopamine => noradrenaline => adrenaline"	22173
+"M00042:Catecholamine biosynthesis, tyrosine => dopamine => noradrenaline => adrenaline"	21823
+"M00042:Catecholamine biosynthesis, tyrosine => dopamine => noradrenaline => adrenaline"	13195
+"M00042:Catecholamine biosynthesis, tyrosine => dopamine => noradrenaline => adrenaline"	13166
+"M00042:Catecholamine biosynthesis, tyrosine => dopamine => noradrenaline => adrenaline"	18948
+"M00043:Thyroid hormone biosynthesis, tyrosine => triiodothyronine/thyroxine"	22018
+"M00044:Tyrosine degradation, tyrosine => homogentisate"	234724
+"M00044:Tyrosine degradation, tyrosine => homogentisate"	14204
+"M00044:Tyrosine degradation, tyrosine => homogentisate"	100470
+"M00044:Tyrosine degradation, tyrosine => homogentisate"	100328588
+"M00044:Tyrosine degradation, tyrosine => homogentisate"	73988
+"M00044:Tyrosine degradation, tyrosine => homogentisate"	15445
+"M00044:Tyrosine degradation, tyrosine => homogentisate"	15233
+"M00044:Tyrosine degradation, tyrosine => homogentisate"	14874
+"M00044:Tyrosine degradation, tyrosine => homogentisate"	14085
+"M00045:Histidine degradation, histidine => N-formiminoglutamate => glutamate"	15109
+"M00045:Histidine degradation, histidine => N-formiminoglutamate => glutamate"	243537
+"M00045:Histidine degradation, histidine => N-formiminoglutamate => glutamate"	71761
+"M00045:Histidine degradation, histidine => N-formiminoglutamate => glutamate"	14317
+"M00046:Pyrimidine degradation, uracil => beta-alanine, thymine => 3-aminoisobutanoate"	99586
+"M00046:Pyrimidine degradation, uracil => beta-alanine, thymine => 3-aminoisobutanoate"	64705
+"M00046:Pyrimidine degradation, uracil => beta-alanine, thymine => 3-aminoisobutanoate"	103149
+M00047:Creatine pathway	67092
+M00047:Creatine pathway	14431
+M00047:Creatine pathway	12716
+M00047:Creatine pathway	12709
+M00047:Creatine pathway	76722
+M00047:Creatine pathway	12715
+"M00048:De novo purine biosynthesis, PRPP + glutamine => IMP"	231327
+"M00048:De novo purine biosynthesis, PRPP + glutamine => IMP"	14450
+"M00048:De novo purine biosynthesis, PRPP + glutamine => IMP"	14450
+"M00048:De novo purine biosynthesis, PRPP + glutamine => IMP"	237823
+"M00048:De novo purine biosynthesis, PRPP + glutamine => IMP"	14450
+"M00048:De novo purine biosynthesis, PRPP + glutamine => IMP"	67054
+"M00048:De novo purine biosynthesis, PRPP + glutamine => IMP"	67054
+"M00048:De novo purine biosynthesis, PRPP + glutamine => IMP"	11564
+"M00048:De novo purine biosynthesis, PRPP + glutamine => IMP"	108147
+"M00049:Adenine ribonucleotide biosynthesis, IMP => ADP,ATP"	11565
+"M00049:Adenine ribonucleotide biosynthesis, IMP => ADP,ATP"	11566
+"M00049:Adenine ribonucleotide biosynthesis, IMP => ADP,ATP"	11564
+"M00049:Adenine ribonucleotide biosynthesis, IMP => ADP,ATP"	11637
+"M00049:Adenine ribonucleotide biosynthesis, IMP => ADP,ATP"	11639
+"M00049:Adenine ribonucleotide biosynthesis, IMP => ADP,ATP"	11636
+"M00049:Adenine ribonucleotide biosynthesis, IMP => ADP,ATP"	229949
+"M00049:Adenine ribonucleotide biosynthesis, IMP => ADP,ATP"	78801
+"M00049:Adenine ribonucleotide biosynthesis, IMP => ADP,ATP"	68870
+"M00049:Adenine ribonucleotide biosynthesis, IMP => ADP,ATP"	102216272
+"M00049:Adenine ribonucleotide biosynthesis, IMP => ADP,ATP"	633979
+"M00049:Adenine ribonucleotide biosynthesis, IMP => ADP,ATP"	56248
+"M00049:Adenine ribonucleotide biosynthesis, IMP => ADP,ATP"	54369
+"M00049:Adenine ribonucleotide biosynthesis, IMP => ADP,ATP"	18103
+"M00049:Adenine ribonucleotide biosynthesis, IMP => ADP,ATP"	56520
+"M00049:Adenine ribonucleotide biosynthesis, IMP => ADP,ATP"	79059
+"M00049:Adenine ribonucleotide biosynthesis, IMP => ADP,ATP"	171567
+"M00049:Adenine ribonucleotide biosynthesis, IMP => ADP,ATP"	18102
+"M00050:Guanine ribonucleotide biosynthesis, IMP => GDP,GTP"	23917
+"M00050:Guanine ribonucleotide biosynthesis, IMP => GDP,GTP"	23918
+"M00050:Guanine ribonucleotide biosynthesis, IMP => GDP,GTP"	229363
+"M00050:Guanine ribonucleotide biosynthesis, IMP => GDP,GTP"	14923
+"M00050:Guanine ribonucleotide biosynthesis, IMP => GDP,GTP"	54369
+"M00050:Guanine ribonucleotide biosynthesis, IMP => GDP,GTP"	18103
+"M00050:Guanine ribonucleotide biosynthesis, IMP => GDP,GTP"	56520
+"M00050:Guanine ribonucleotide biosynthesis, IMP => GDP,GTP"	79059
+"M00050:Guanine ribonucleotide biosynthesis, IMP => GDP,GTP"	171567
+"M00050:Guanine ribonucleotide biosynthesis, IMP => GDP,GTP"	18102
+"M00050:Guanine ribonucleotide biosynthesis, IMP => GDP,GTP"	633979
+"M00051:De novo pyrimidine biosynthesis, glutamine (+ PRPP) => UMP"	69719
+"M00051:De novo pyrimidine biosynthesis, glutamine (+ PRPP) => UMP"	56749
+"M00051:De novo pyrimidine biosynthesis, glutamine (+ PRPP) => UMP"	22247
+"M00052:Pyrimidine ribonucleotide biosynthesis, UMP => UDP/UTP,CDP/CTP"	66588
+"M00052:Pyrimidine ribonucleotide biosynthesis, UMP => UDP/UTP,CDP/CTP"	22169
+"M00052:Pyrimidine ribonucleotide biosynthesis, UMP => UDP/UTP,CDP/CTP"	54369
+"M00052:Pyrimidine ribonucleotide biosynthesis, UMP => UDP/UTP,CDP/CTP"	18103
+"M00052:Pyrimidine ribonucleotide biosynthesis, UMP => UDP/UTP,CDP/CTP"	56520
+"M00052:Pyrimidine ribonucleotide biosynthesis, UMP => UDP/UTP,CDP/CTP"	79059
+"M00052:Pyrimidine ribonucleotide biosynthesis, UMP => UDP/UTP,CDP/CTP"	171567
+"M00052:Pyrimidine ribonucleotide biosynthesis, UMP => UDP/UTP,CDP/CTP"	18102
+"M00052:Pyrimidine ribonucleotide biosynthesis, UMP => UDP/UTP,CDP/CTP"	633979
+"M00052:Pyrimidine ribonucleotide biosynthesis, UMP => UDP/UTP,CDP/CTP"	51797
+"M00052:Pyrimidine ribonucleotide biosynthesis, UMP => UDP/UTP,CDP/CTP"	55936
+"M00053:Deoxyribonucleotide biosynthesis, ADP/GDP/CDP/UDP => dATP/dGTP/dCTP/dUTP"	20133
+"M00053:Deoxyribonucleotide biosynthesis, ADP/GDP/CDP/UDP => dATP/dGTP/dCTP/dUTP"	382985
+"M00053:Deoxyribonucleotide biosynthesis, ADP/GDP/CDP/UDP => dATP/dGTP/dCTP/dUTP"	20135
+"M00053:Deoxyribonucleotide biosynthesis, ADP/GDP/CDP/UDP => dATP/dGTP/dCTP/dUTP"	54369
+"M00053:Deoxyribonucleotide biosynthesis, ADP/GDP/CDP/UDP => dATP/dGTP/dCTP/dUTP"	18103
+"M00053:Deoxyribonucleotide biosynthesis, ADP/GDP/CDP/UDP => dATP/dGTP/dCTP/dUTP"	56520
+"M00053:Deoxyribonucleotide biosynthesis, ADP/GDP/CDP/UDP => dATP/dGTP/dCTP/dUTP"	79059
+"M00053:Deoxyribonucleotide biosynthesis, ADP/GDP/CDP/UDP => dATP/dGTP/dCTP/dUTP"	171567
+"M00053:Deoxyribonucleotide biosynthesis, ADP/GDP/CDP/UDP => dATP/dGTP/dCTP/dUTP"	18102
+"M00053:Deoxyribonucleotide biosynthesis, ADP/GDP/CDP/UDP => dATP/dGTP/dCTP/dUTP"	633979
+M00055:N-glycan precursor biosynthesis	13478
+M00055:N-glycan precursor biosynthesis	320302
+M00055:N-glycan precursor biosynthesis	67574
+M00055:N-glycan precursor biosynthesis	66789
+M00055:N-glycan precursor biosynthesis	208211
+M00055:N-glycan precursor biosynthesis	56737
+M00055:N-glycan precursor biosynthesis	207958
+M00055:N-glycan precursor biosynthesis	208624
+M00055:N-glycan precursor biosynthesis	102580
+M00055:N-glycan precursor biosynthesis	223774
+M00055:N-glycan precursor biosynthesis	102580
+M00055:N-glycan precursor biosynthesis	66248
+M00055:N-glycan precursor biosynthesis	320438
+M00055:N-glycan precursor biosynthesis	381903
+M00055:N-glycan precursor biosynthesis	380959
+"M00056:O-glycan biosynthesis, mucin type core"	14423
+"M00056:O-glycan biosynthesis, mucin type core"	171212
+"M00056:O-glycan biosynthesis, mucin type core"	108760
+"M00056:O-glycan biosynthesis, mucin type core"	207839
+"M00056:O-glycan biosynthesis, mucin type core"	108150
+"M00056:O-glycan biosynthesis, mucin type core"	241391
+"M00056:O-glycan biosynthesis, mucin type core"	212996
+"M00056:O-glycan biosynthesis, mucin type core"	230145
+"M00056:O-glycan biosynthesis, mucin type core"	271786
+"M00056:O-glycan biosynthesis, mucin type core"	108148
+"M00056:O-glycan biosynthesis, mucin type core"	14426
+"M00056:O-glycan biosynthesis, mucin type core"	233733
+"M00056:O-glycan biosynthesis, mucin type core"	71685
+"M00056:O-glycan biosynthesis, mucin type core"	67909
+"M00056:O-glycan biosynthesis, mucin type core"	14425
+"M00056:O-glycan biosynthesis, mucin type core"	231050
+"M00056:O-glycan biosynthesis, mucin type core"	78754
+"M00056:O-glycan biosynthesis, mucin type core"	270049
+"M00056:O-glycan biosynthesis, mucin type core"	94192
+"M00056:O-glycan biosynthesis, mucin type core"	59048
+"M00056:O-glycan biosynthesis, mucin type core"	14537
+"M00056:O-glycan biosynthesis, mucin type core"	72077
+"M00056:O-glycan biosynthesis, mucin type core"	218476
+"M00056:O-glycan biosynthesis, mucin type core"	272411
+"M00057:Glycosaminoglycan biosynthesis, linkage tetrasaccharide"	233781
+"M00057:Glycosaminoglycan biosynthesis, linkage tetrasaccharide"	217119
+"M00057:Glycosaminoglycan biosynthesis, linkage tetrasaccharide"	218271
+"M00057:Glycosaminoglycan biosynthesis, linkage tetrasaccharide"	117592
+"M00057:Glycosaminoglycan biosynthesis, linkage tetrasaccharide"	72727
+"M00058:Glycosaminoglycan biosynthesis, chondroitin sulfate backbone"	78752
+"M00058:Glycosaminoglycan biosynthesis, chondroitin sulfate backbone"	234356
+"M00058:Glycosaminoglycan biosynthesis, chondroitin sulfate backbone"	269941
+"M00058:Glycosaminoglycan biosynthesis, chondroitin sulfate backbone"	78923
+"M00058:Glycosaminoglycan biosynthesis, chondroitin sulfate backbone"	74241
+"M00058:Glycosaminoglycan biosynthesis, chondroitin sulfate backbone"	100910
+"M00059:Glycosaminoglycan biosynthesis, heparan sulfate backbone"	58193
+"M00059:Glycosaminoglycan biosynthesis, heparan sulfate backbone"	54616
+"M00059:Glycosaminoglycan biosynthesis, heparan sulfate backbone"	14042
+"M00059:Glycosaminoglycan biosynthesis, heparan sulfate backbone"	14043
+"M00059:Glycosaminoglycan biosynthesis, heparan sulfate backbone"	56219
+"M00059:Glycosaminoglycan biosynthesis, heparan sulfate backbone"	54616
+"M00059:Glycosaminoglycan biosynthesis, heparan sulfate backbone"	15531
+"M00059:Glycosaminoglycan biosynthesis, heparan sulfate backbone"	17423
+"M00059:Glycosaminoglycan biosynthesis, heparan sulfate backbone"	83398
+"M00059:Glycosaminoglycan biosynthesis, heparan sulfate backbone"	64580
+"M00059:Glycosaminoglycan biosynthesis, heparan sulfate backbone"	93683
+"M00065:GPI-anchor biosynthesis, core oligosaccharide"	18700
+"M00065:GPI-anchor biosynthesis, core oligosaccharide"	67292
+"M00065:GPI-anchor biosynthesis, core oligosaccharide"	110417
+"M00065:GPI-anchor biosynthesis, core oligosaccharide"	56176
+"M00065:GPI-anchor biosynthesis, core oligosaccharide"	14755
+"M00065:GPI-anchor biosynthesis, core oligosaccharide"	66268
+"M00065:GPI-anchor biosynthesis, core oligosaccharide"	13481
+"M00065:GPI-anchor biosynthesis, core oligosaccharide"	327942
+"M00065:GPI-anchor biosynthesis, core oligosaccharide"	70325
+"M00065:GPI-anchor biosynthesis, core oligosaccharide"	67556
+"M00065:GPI-anchor biosynthesis, core oligosaccharide"	72084
+"M00065:GPI-anchor biosynthesis, core oligosaccharide"	230801
+"M00065:GPI-anchor biosynthesis, core oligosaccharide"	27392
+"M00065:GPI-anchor biosynthesis, core oligosaccharide"	55981
+"M00065:GPI-anchor biosynthesis, core oligosaccharide"	56703
+"M00065:GPI-anchor biosynthesis, core oligosaccharide"	18701
+"M00065:GPI-anchor biosynthesis, core oligosaccharide"	433931
+"M00065:GPI-anchor biosynthesis, core oligosaccharide"	18701
+M00066:Lactosylceramide biosynthesis	22234
+M00066:Lactosylceramide biosynthesis	56386
+M00066:Lactosylceramide biosynthesis	56336
+"M00067:Sulfoglycolipids biosynthesis, ceramide/1-alkyl-2-acylglycerol => sulfatide/seminolipid"	22239
+"M00067:Sulfoglycolipids biosynthesis, ceramide/1-alkyl-2-acylglycerol => sulfatide/seminolipid"	53897
+"M00068:Glycosphingolipid biosynthesis, globo-series, LacCer => Gb4Cer"	239559
+"M00068:Glycosphingolipid biosynthesis, globo-series, LacCer => Gb4Cer"	26879
+"M00069:Glycosphingolipid biosynthesis, ganglio series, LacCer => GT3"	20454
+"M00069:Glycosphingolipid biosynthesis, ganglio series, LacCer => GT3"	20449
+"M00069:Glycosphingolipid biosynthesis, ganglio series, LacCer => GT3"	225742
+"M00070:Glycosphingolipid biosynthesis, lacto-series, LacCer => Lc4Cer"	108105
+"M00070:Glycosphingolipid biosynthesis, lacto-series, LacCer => Lc4Cer"	26877
+"M00070:Glycosphingolipid biosynthesis, lacto-series, LacCer => Lc4Cer"	26878
+"M00070:Glycosphingolipid biosynthesis, lacto-series, LacCer => Lc4Cer"	93961
+"M00071:Glycosphingolipid biosynthesis, neolacto-series, LacCer => nLc4Cer"	108105
+"M00071:Glycosphingolipid biosynthesis, neolacto-series, LacCer => nLc4Cer"	14595
+"M00071:Glycosphingolipid biosynthesis, neolacto-series, LacCer => nLc4Cer"	53418
+"M00071:Glycosphingolipid biosynthesis, neolacto-series, LacCer => nLc4Cer"	57370
+"M00071:Glycosphingolipid biosynthesis, neolacto-series, LacCer => nLc4Cer"	56375
+M00072:N-glycosylation by oligosaccharyltransferase	16430
+M00072:N-glycosylation by oligosaccharyltransferase	68292
+M00072:N-glycosylation by oligosaccharyltransferase	103963
+M00072:N-glycosylation by oligosaccharyltransferase	20014
+M00072:N-glycosylation by oligosaccharyltransferase	13135
+M00072:N-glycosylation by oligosaccharyltransferase	13200
+M00073:N-glycan precursor trimming	57377
+M00073:N-glycan precursor trimming	14376
+M00073:N-glycan precursor trimming	227619
+M00073:N-glycan precursor trimming	17155
+M00073:N-glycan precursor trimming	17156
+M00073:N-glycan precursor trimming	230815
+"M00074:N-glycan biosynthesis, high-mannose type"	14376
+"M00074:N-glycan biosynthesis, high-mannose type"	227619
+"M00074:N-glycan biosynthesis, high-mannose type"	17155
+"M00074:N-glycan biosynthesis, high-mannose type"	17156
+"M00074:N-glycan biosynthesis, high-mannose type"	230815
+"M00075:N-glycan biosynthesis, complex type"	17158
+"M00075:N-glycan biosynthesis, complex type"	140481
+"M00075:N-glycan biosynthesis, complex type"	217664
+"M00075:N-glycan biosynthesis, complex type"	17309
+"M00075:N-glycan biosynthesis, complex type"	103534
+"M00075:N-glycan biosynthesis, complex type"	269181
+"M00075:N-glycan biosynthesis, complex type"	67555
+"M00075:N-glycan biosynthesis, complex type"	107895
+"M00075:N-glycan biosynthesis, complex type"	268510
+"M00075:N-glycan biosynthesis, complex type"	67569
+"M00075:N-glycan biosynthesis, complex type"	53618
+"M00075:N-glycan biosynthesis, complex type"	14595
+"M00075:N-glycan biosynthesis, complex type"	53418
+"M00075:N-glycan biosynthesis, complex type"	57370
+"M00075:N-glycan biosynthesis, complex type"	20440
+"M00075:N-glycan biosynthesis, complex type"	240119
+M00076:Dermatan sulfate degradation	15931
+M00076:Dermatan sulfate degradation	15932
+M00076:Dermatan sulfate degradation	11881
+M00076:Dermatan sulfate degradation	20690
+M00076:Dermatan sulfate degradation	15586
+M00076:Dermatan sulfate degradation	15587
+M00076:Dermatan sulfate degradation	74468
+M00076:Dermatan sulfate degradation	77042
+M00076:Dermatan sulfate degradation	109685
+M00076:Dermatan sulfate degradation	74409
+M00076:Dermatan sulfate degradation	110006
+M00077:Chondroitin sulfate degradation	11881
+M00077:Chondroitin sulfate degradation	20690
+M00077:Chondroitin sulfate degradation	15586
+M00077:Chondroitin sulfate degradation	15587
+M00077:Chondroitin sulfate degradation	74468
+M00077:Chondroitin sulfate degradation	77042
+M00077:Chondroitin sulfate degradation	109685
+M00077:Chondroitin sulfate degradation	74409
+M00077:Chondroitin sulfate degradation	110006
+M00077:Chondroitin sulfate degradation	50917
+M00078:Heparan sulfate degradation	15442
+M00078:Heparan sulfate degradation	545291
+M00078:Heparan sulfate degradation	15931
+M00078:Heparan sulfate degradation	15932
+M00078:Heparan sulfate degradation	27029
+M00078:Heparan sulfate degradation	52120
+M00078:Heparan sulfate degradation	27419
+M00078:Heparan sulfate degradation	110006
+M00078:Heparan sulfate degradation	75612
+M00079:Keratan sulfate degradation	50917
+M00079:Keratan sulfate degradation	12091
+M00079:Keratan sulfate degradation	75612
+M00079:Keratan sulfate degradation	15211
+M00079:Keratan sulfate degradation	15212
+"M00082:Fatty acid biosynthesis, initiation"	107476
+"M00082:Fatty acid biosynthesis, initiation"	14104
+"M00082:Fatty acid biosynthesis, initiation"	223722
+"M00083:Fatty acid biosynthesis, elongation"	14104
+"M00083:Fatty acid biosynthesis, elongation"	71147
+M00085:Fatty acid elongation in mitochondria	52538
+M00085:Fatty acid elongation in mitochondria	231086
+M00085:Fatty acid elongation in mitochondria	15107
+M00085:Fatty acid elongation in mitochondria	93747
+M00085:Fatty acid elongation in mitochondria	97212
+M00085:Fatty acid elongation in mitochondria	26922
+"M00086:beta-Oxidation, acyl-CoA synthesis"	14081
+"M00086:beta-Oxidation, acyl-CoA synthesis"	50790
+"M00086:beta-Oxidation, acyl-CoA synthesis"	216739
+"M00086:beta-Oxidation, acyl-CoA synthesis"	74205
+"M00086:beta-Oxidation, acyl-CoA synthesis"	433256
+"M00086:beta-Oxidation, acyl-CoA synthesis"	328845
+"M00086:beta-Oxidation, acyl-CoA synthesis"	94180
+"M00086:beta-Oxidation, acyl-CoA synthesis"	78625
+M00087:beta-Oxidation	80911
+M00087:beta-Oxidation	11430
+M00087:beta-Oxidation	11364
+M00087:beta-Oxidation	11363
+M00087:beta-Oxidation	11370
+M00087:beta-Oxidation	93747
+M00087:beta-Oxidation	15107
+M00087:beta-Oxidation	74147
+M00087:beta-Oxidation	97212
+M00087:beta-Oxidation	52538
+M00087:beta-Oxidation	231086
+M00087:beta-Oxidation	113868
+M00087:beta-Oxidation	235674
+"M00088:Ketone body biosynthesis, acetyl-CoA => acetoacetate/3-hydroxybutyrate/acetone"	110460
+"M00088:Ketone body biosynthesis, acetyl-CoA => acetoacetate/3-hydroxybutyrate/acetone"	110446
+"M00088:Ketone body biosynthesis, acetyl-CoA => acetoacetate/3-hydroxybutyrate/acetone"	224530
+"M00088:Ketone body biosynthesis, acetyl-CoA => acetoacetate/3-hydroxybutyrate/acetone"	208715
+"M00088:Ketone body biosynthesis, acetyl-CoA => acetoacetate/3-hydroxybutyrate/acetone"	15360
+"M00088:Ketone body biosynthesis, acetyl-CoA => acetoacetate/3-hydroxybutyrate/acetone"	15356
+"M00088:Ketone body biosynthesis, acetyl-CoA => acetoacetate/3-hydroxybutyrate/acetone"	208982
+"M00088:Ketone body biosynthesis, acetyl-CoA => acetoacetate/3-hydroxybutyrate/acetone"	71911
+M00089:Triacylglycerol biosynthesis	14732
+M00089:Triacylglycerol biosynthesis	215456
+M00089:Triacylglycerol biosynthesis	102247
+M00089:Triacylglycerol biosynthesis	231510
+M00089:Triacylglycerol biosynthesis	55979
+M00089:Triacylglycerol biosynthesis	67512
+M00089:Triacylglycerol biosynthesis	28169
+M00089:Triacylglycerol biosynthesis	68262
+M00089:Triacylglycerol biosynthesis	52123
+M00089:Triacylglycerol biosynthesis	225010
+M00089:Triacylglycerol biosynthesis	218121
+M00089:Triacylglycerol biosynthesis	67216
+M00089:Triacylglycerol biosynthesis	19012
+M00089:Triacylglycerol biosynthesis	50784
+M00089:Triacylglycerol biosynthesis	67916
+M00089:Triacylglycerol biosynthesis	14245
+M00089:Triacylglycerol biosynthesis	64899
+M00089:Triacylglycerol biosynthesis	64898
+M00089:Triacylglycerol biosynthesis	71910
+M00089:Triacylglycerol biosynthesis	381925
+M00089:Triacylglycerol biosynthesis	13350
+M00089:Triacylglycerol biosynthesis	67800
+"M00090:Phosphatidylcholine (PC) biosynthesis, choline => PC"	12660
+"M00090:Phosphatidylcholine (PC) biosynthesis, choline => PC"	12651
+"M00090:Phosphatidylcholine (PC) biosynthesis, choline => PC"	13026
+"M00090:Phosphatidylcholine (PC) biosynthesis, choline => PC"	236899
+"M00090:Phosphatidylcholine (PC) biosynthesis, choline => PC"	212862
+"M00090:Phosphatidylcholine (PC) biosynthesis, choline => PC"	99712
+"M00091:Phosphatidylcholine (PC) biosynthesis, PE => PC"	18618
+"M00092:Phosphatidylethanolamine (PE) biosynthesis, ethanolamine => PE"	75320
+"M00092:Phosphatidylethanolamine (PE) biosynthesis, ethanolamine => PE"	214253
+"M00092:Phosphatidylethanolamine (PE) biosynthesis, ethanolamine => PE"	12660
+"M00092:Phosphatidylethanolamine (PE) biosynthesis, ethanolamine => PE"	12651
+"M00092:Phosphatidylethanolamine (PE) biosynthesis, ethanolamine => PE"	68671
+"M00092:Phosphatidylethanolamine (PE) biosynthesis, ethanolamine => PE"	28042
+"M00092:Phosphatidylethanolamine (PE) biosynthesis, ethanolamine => PE"	99712
+"M00093:Phosphatidylethanolamine (PE) biosynthesis, PA => PS => PE"	74596
+"M00093:Phosphatidylethanolamine (PE) biosynthesis, PA => PS => PE"	110911
+"M00093:Phosphatidylethanolamine (PE) biosynthesis, PA => PS => PE"	320951
+M00094:Ceramide biosynthesis	20773
+M00094:Ceramide biosynthesis	268656
+M00094:Ceramide biosynthesis	228677
+M00094:Ceramide biosynthesis	70750
+M00094:Ceramide biosynthesis	93898
+M00094:Ceramide biosynthesis	76893
+M00094:Ceramide biosynthesis	67260
+M00094:Ceramide biosynthesis	545975
+M00094:Ceramide biosynthesis	241447
+M00094:Ceramide biosynthesis	71949
+M00094:Ceramide biosynthesis	70059
+M00094:Ceramide biosynthesis	13244
+M00094:Ceramide biosynthesis	619326
+"M00095:C5 isoprenoid biosynthesis, mevalonate pathway"	110460
+"M00095:C5 isoprenoid biosynthesis, mevalonate pathway"	110446
+"M00095:C5 isoprenoid biosynthesis, mevalonate pathway"	224530
+"M00095:C5 isoprenoid biosynthesis, mevalonate pathway"	208715
+"M00095:C5 isoprenoid biosynthesis, mevalonate pathway"	15360
+"M00095:C5 isoprenoid biosynthesis, mevalonate pathway"	15357
+"M00095:C5 isoprenoid biosynthesis, mevalonate pathway"	17855
+"M00095:C5 isoprenoid biosynthesis, mevalonate pathway"	68603
+"M00095:C5 isoprenoid biosynthesis, mevalonate pathway"	192156
+"M00095:C5 isoprenoid biosynthesis, mevalonate pathway"	319554
+"M00095:C5 isoprenoid biosynthesis, mevalonate pathway"	320581
+"M00096:C5 isoprenoid biosynthesis, non-mevalonate pathway"	319554
+"M00096:C5 isoprenoid biosynthesis, non-mevalonate pathway"	320581
+M00098:Acylglycerol degradation	12613
+M00098:Acylglycerol degradation	66853
+M00098:Acylglycerol degradation	116939
+M00098:Acylglycerol degradation	69060
+M00098:Acylglycerol degradation	18946
+M00098:Acylglycerol degradation	18947
+M00098:Acylglycerol degradation	15450
+M00098:Acylglycerol degradation	67717
+M00098:Acylglycerol degradation	16891
+M00098:Acylglycerol degradation	23945
+M00098:Acylglycerol degradation	193742
+M00099:Sphingosine biosynthesis	20773
+M00099:Sphingosine biosynthesis	268656
+M00099:Sphingosine biosynthesis	228677
+M00099:Sphingosine biosynthesis	70750
+M00099:Sphingosine biosynthesis	93898
+M00099:Sphingosine biosynthesis	76893
+M00099:Sphingosine biosynthesis	67260
+M00099:Sphingosine biosynthesis	545975
+M00099:Sphingosine biosynthesis	241447
+M00099:Sphingosine biosynthesis	71949
+M00099:Sphingosine biosynthesis	70059
+M00099:Sphingosine biosynthesis	13244
+M00099:Sphingosine biosynthesis	619326
+M00099:Sphingosine biosynthesis	230379
+M00099:Sphingosine biosynthesis	171168
+M00099:Sphingosine biosynthesis	11886
+M00099:Sphingosine biosynthesis	54447
+M00100:Sphingosine degradation	56632
+M00100:Sphingosine degradation	20698
+M00100:Sphingosine degradation	20397
+"M00101:Cholesterol biosynthesis, FPP => cholesterol"	14137
+"M00101:Cholesterol biosynthesis, FPP => cholesterol"	20775
+"M00101:Cholesterol biosynthesis, FPP => cholesterol"	16987
+"M00101:Cholesterol biosynthesis, FPP => cholesterol"	13121
+"M00101:Cholesterol biosynthesis, FPP => cholesterol"	73166
+"M00101:Cholesterol biosynthesis, FPP => cholesterol"	98386
+"M00101:Cholesterol biosynthesis, FPP => cholesterol"	66234
+"M00101:Cholesterol biosynthesis, FPP => cholesterol"	18194
+"M00101:Cholesterol biosynthesis, FPP => cholesterol"	15490
+"M00101:Cholesterol biosynthesis, FPP => cholesterol"	74754
+"M00101:Cholesterol biosynthesis, FPP => cholesterol"	13595
+"M00101:Cholesterol biosynthesis, FPP => cholesterol"	235293
+"M00101:Cholesterol biosynthesis, FPP => cholesterol"	13360
+"M00102:Ergocalciferol biosynthesis, FPP => ergosterol/ergocalciferol"	14137
+"M00102:Ergocalciferol biosynthesis, FPP => ergosterol/ergocalciferol"	20775
+"M00102:Ergocalciferol biosynthesis, FPP => ergosterol/ergocalciferol"	16987
+"M00102:Ergocalciferol biosynthesis, FPP => ergosterol/ergocalciferol"	13121
+"M00102:Ergocalciferol biosynthesis, FPP => ergosterol/ergocalciferol"	73166
+"M00102:Ergocalciferol biosynthesis, FPP => ergosterol/ergocalciferol"	66234
+"M00102:Ergocalciferol biosynthesis, FPP => ergosterol/ergocalciferol"	18194
+"M00102:Ergocalciferol biosynthesis, FPP => ergosterol/ergocalciferol"	235293
+M00103:Cholecalciferol biosynthesis	244209
+M00103:Cholecalciferol biosynthesis	13115
+"M00104:Bile acid biosynthesis, cholesterol => cholate/chenodeoxycholate"	13122
+"M00104:Bile acid biosynthesis, cholesterol => cholate/chenodeoxycholate"	101502
+"M00104:Bile acid biosynthesis, cholesterol => cholate/chenodeoxycholate"	13124
+"M00104:Bile acid biosynthesis, cholesterol => cholate/chenodeoxycholate"	208665
+"M00104:Bile acid biosynthesis, cholesterol => cholate/chenodeoxycholate"	104086
+"M00104:Bile acid biosynthesis, cholesterol => cholate/chenodeoxycholate"	26459
+"M00104:Bile acid biosynthesis, cholesterol => cholate/chenodeoxycholate"	17117
+"M00104:Bile acid biosynthesis, cholesterol => cholate/chenodeoxycholate"	93732
+"M00104:Bile acid biosynthesis, cholesterol => cholate/chenodeoxycholate"	15488
+"M00104:Bile acid biosynthesis, cholesterol => cholate/chenodeoxycholate"	20280
+"M00104:Bile acid biosynthesis, cholesterol => cholate/chenodeoxycholate"	170789
+"M00106:Conjugated bile acid biosynthesis, cholate => taurocholate/glycocholate"	26459
+"M00106:Conjugated bile acid biosynthesis, cholate => taurocholate/glycocholate"	12012
+"M00106:Conjugated bile acid biosynthesis, cholate => taurocholate/glycocholate"	209186
+"M00106:Conjugated bile acid biosynthesis, cholate => taurocholate/glycocholate"	230161
+"M00107:Steroid hormone biosynthesis, cholesterol => pregnenolone => progesterone"	13070
+"M00107:Steroid hormone biosynthesis, cholesterol => pregnenolone => progesterone"	15495
+"M00107:Steroid hormone biosynthesis, cholesterol => pregnenolone => progesterone"	15496
+"M00107:Steroid hormone biosynthesis, cholesterol => pregnenolone => progesterone"	15493
+"M00107:Steroid hormone biosynthesis, cholesterol => pregnenolone => progesterone"	15492
+"M00107:Steroid hormone biosynthesis, cholesterol => pregnenolone => progesterone"	15497
+"M00107:Steroid hormone biosynthesis, cholesterol => pregnenolone => progesterone"	100043456
+"M00107:Steroid hormone biosynthesis, cholesterol => pregnenolone => progesterone"	100043461
+"M00107:Steroid hormone biosynthesis, cholesterol => pregnenolone => progesterone"	15494
+"M00108:C21-Steroid hormone biosynthesis, progesterone => corticosterone/aldosterone"	13079
+"M00108:C21-Steroid hormone biosynthesis, progesterone => corticosterone/aldosterone"	110115
+"M00108:C21-Steroid hormone biosynthesis, progesterone => corticosterone/aldosterone"	13072
+"M00109:C21-Steroid hormone biosynthesis, progesterone => cortisol/cortisone"	13074
+"M00109:C21-Steroid hormone biosynthesis, progesterone => cortisol/cortisone"	13079
+"M00109:C21-Steroid hormone biosynthesis, progesterone => cortisol/cortisone"	110115
+"M00109:C21-Steroid hormone biosynthesis, progesterone => cortisol/cortisone"	13072
+"M00109:C21-Steroid hormone biosynthesis, progesterone => cortisol/cortisone"	15483
+"M00109:C21-Steroid hormone biosynthesis, progesterone => cortisol/cortisone"	15484
+"M00110:C19/C18-Steroid hormone biosynthesis, pregnenolone => androstenedione => estrone"	13074
+"M00110:C19/C18-Steroid hormone biosynthesis, pregnenolone => androstenedione => estrone"	15495
+"M00110:C19/C18-Steroid hormone biosynthesis, pregnenolone => androstenedione => estrone"	15496
+"M00110:C19/C18-Steroid hormone biosynthesis, pregnenolone => androstenedione => estrone"	15493
+"M00110:C19/C18-Steroid hormone biosynthesis, pregnenolone => androstenedione => estrone"	15492
+"M00110:C19/C18-Steroid hormone biosynthesis, pregnenolone => androstenedione => estrone"	15497
+"M00110:C19/C18-Steroid hormone biosynthesis, pregnenolone => androstenedione => estrone"	100043456
+"M00110:C19/C18-Steroid hormone biosynthesis, pregnenolone => androstenedione => estrone"	100043461
+"M00110:C19/C18-Steroid hormone biosynthesis, pregnenolone => androstenedione => estrone"	15494
+"M00110:C19/C18-Steroid hormone biosynthesis, pregnenolone => androstenedione => estrone"	13075
+M00113:Jasmonic acid biosynthesis	80911
+M00113:Jasmonic acid biosynthesis	11430
+M00113:Jasmonic acid biosynthesis	113868
+M00113:Jasmonic acid biosynthesis	235674
+"M00114:Ascorbate biosynthesis, plants, fructose-6P => ascorbate"	110119
+"M00114:Ascorbate biosynthesis, plants, fructose-6P => ascorbate"	54128
+"M00114:Ascorbate biosynthesis, plants, fructose-6P => ascorbate"	29858
+"M00114:Ascorbate biosynthesis, plants, fructose-6P => ascorbate"	331026
+"M00114:Ascorbate biosynthesis, plants, fructose-6P => ascorbate"	69080
+"M00115:NAD biosynthesis, aspartate => quinolinate => NAD"	68352
+"M00115:NAD biosynthesis, aspartate => quinolinate => NAD"	67375
+"M00115:NAD biosynthesis, aspartate => quinolinate => NAD"	74080
+"M00115:NAD biosynthesis, aspartate => quinolinate => NAD"	66454
+"M00115:NAD biosynthesis, aspartate => quinolinate => NAD"	226518
+"M00115:NAD biosynthesis, aspartate => quinolinate => NAD"	78914
+"M00117:Ubiquinone biosynthesis, prokaryotes, chorismate (+ polyprenyl-PP) => ubiquinol"	12850
+"M00118:Glutathione biosynthesis, glutamate => glutathione"	14629
+"M00118:Glutathione biosynthesis, glutamate => glutathione"	14630
+"M00118:Glutathione biosynthesis, glutamate => glutathione"	14854
+"M00119:Pantothenate biosynthesis, valine/L-aspartate => pantothenate"	12035
+"M00119:Pantothenate biosynthesis, valine/L-aspartate => pantothenate"	12036
+"M00120:Coenzyme A biosynthesis, pantothenate => CoA"	211347
+"M00120:Coenzyme A biosynthesis, pantothenate => CoA"	74450
+"M00120:Coenzyme A biosynthesis, pantothenate => CoA"	75735
+"M00120:Coenzyme A biosynthesis, pantothenate => CoA"	106564
+"M00120:Coenzyme A biosynthesis, pantothenate => CoA"	66812
+"M00120:Coenzyme A biosynthesis, pantothenate => CoA"	71743
+"M00121:Heme biosynthesis, plants and bacteria, glutamate => heme"	67417
+"M00121:Heme biosynthesis, plants and bacteria, glutamate => heme"	17025
+"M00121:Heme biosynthesis, plants and bacteria, glutamate => heme"	15288
+"M00121:Heme biosynthesis, plants and bacteria, glutamate => heme"	22276
+"M00121:Heme biosynthesis, plants and bacteria, glutamate => heme"	22275
+"M00121:Heme biosynthesis, plants and bacteria, glutamate => heme"	12892
+"M00121:Heme biosynthesis, plants and bacteria, glutamate => heme"	19044
+"M00121:Heme biosynthesis, plants and bacteria, glutamate => heme"	14151
+"M00122:Cobalamin biosynthesis, cobyrinate a,c-diamide => cobalamin"	77697
+"M00124:Pyridoxal-P biosynthesis, erythrose-4P => pyridoxal-P"	107272
+"M00124:Pyridoxal-P biosynthesis, erythrose-4P => pyridoxal-P"	103711
+"M00126:Tetrahydrofolate biosynthesis, GTP => THF"	14528
+"M00126:Tetrahydrofolate biosynthesis, GTP => THF"	11650
+"M00126:Tetrahydrofolate biosynthesis, GTP => THF"	11648
+"M00126:Tetrahydrofolate biosynthesis, GTP => THF"	11647
+"M00126:Tetrahydrofolate biosynthesis, GTP => THF"	76768
+"M00126:Tetrahydrofolate biosynthesis, GTP => THF"	13361
+"M00128:Ubiquinone biosynthesis, eukaryotes, 4-hydroxybenzoate + polyprenyl-PP => ubiquinol"	71883
+"M00128:Ubiquinone biosynthesis, eukaryotes, 4-hydroxybenzoate + polyprenyl-PP => ubiquinol"	217707
+"M00128:Ubiquinone biosynthesis, eukaryotes, 4-hydroxybenzoate + polyprenyl-PP => ubiquinol"	230027
+"M00128:Ubiquinone biosynthesis, eukaryotes, 4-hydroxybenzoate + polyprenyl-PP => ubiquinol"	52064
+"M00128:Ubiquinone biosynthesis, eukaryotes, 4-hydroxybenzoate + polyprenyl-PP => ubiquinol"	12850
+"M00128:Ubiquinone biosynthesis, eukaryotes, 4-hydroxybenzoate + polyprenyl-PP => ubiquinol"	230027
+"M00129:Ascorbate biosynthesis, animals, glucose-1P => ascorbate"	216558
+"M00129:Ascorbate biosynthesis, animals, glucose-1P => ascorbate"	22235
+"M00129:Ascorbate biosynthesis, animals, glucose-1P => ascorbate"	22238
+"M00129:Ascorbate biosynthesis, animals, glucose-1P => ascorbate"	22236
+"M00129:Ascorbate biosynthesis, animals, glucose-1P => ascorbate"	94284
+"M00129:Ascorbate biosynthesis, animals, glucose-1P => ascorbate"	94215
+"M00129:Ascorbate biosynthesis, animals, glucose-1P => ascorbate"	394434
+"M00129:Ascorbate biosynthesis, animals, glucose-1P => ascorbate"	394430
+"M00129:Ascorbate biosynthesis, animals, glucose-1P => ascorbate"	394432
+"M00129:Ascorbate biosynthesis, animals, glucose-1P => ascorbate"	394433
+"M00129:Ascorbate biosynthesis, animals, glucose-1P => ascorbate"	72094
+"M00129:Ascorbate biosynthesis, animals, glucose-1P => ascorbate"	552899
+"M00129:Ascorbate biosynthesis, animals, glucose-1P => ascorbate"	71773
+"M00129:Ascorbate biosynthesis, animals, glucose-1P => ascorbate"	394435
+"M00129:Ascorbate biosynthesis, animals, glucose-1P => ascorbate"	394436
+"M00129:Ascorbate biosynthesis, animals, glucose-1P => ascorbate"	100727
+"M00129:Ascorbate biosynthesis, animals, glucose-1P => ascorbate"	231396
+"M00129:Ascorbate biosynthesis, animals, glucose-1P => ascorbate"	100559
+"M00129:Ascorbate biosynthesis, animals, glucose-1P => ascorbate"	112417
+"M00129:Ascorbate biosynthesis, animals, glucose-1P => ascorbate"	243085
+"M00129:Ascorbate biosynthesis, animals, glucose-1P => ascorbate"	613123
+"M00129:Ascorbate biosynthesis, animals, glucose-1P => ascorbate"	110006
+"M00129:Ascorbate biosynthesis, animals, glucose-1P => ascorbate"	58810
+"M00129:Ascorbate biosynthesis, animals, glucose-1P => ascorbate"	19733
+"M00129:Ascorbate biosynthesis, animals, glucose-1P => ascorbate"	268756
+"M00130:Inositol phosphate metabolism, PI=> PIP2 => Ins(1,4,5)P3 => Ins(1,3,4,5)P4"	224020
+"M00130:Inositol phosphate metabolism, PI=> PIP2 => Ins(1,4,5)P3 => Ins(1,3,4,5)P4"	107650
+"M00130:Inositol phosphate metabolism, PI=> PIP2 => Ins(1,4,5)P3 => Ins(1,3,4,5)P4"	84095
+"M00130:Inositol phosphate metabolism, PI=> PIP2 => Ins(1,4,5)P3 => Ins(1,3,4,5)P4"	67073
+"M00130:Inositol phosphate metabolism, PI=> PIP2 => Ins(1,4,5)P3 => Ins(1,3,4,5)P4"	18717
+"M00130:Inositol phosphate metabolism, PI=> PIP2 => Ins(1,4,5)P3 => Ins(1,3,4,5)P4"	18719
+"M00130:Inositol phosphate metabolism, PI=> PIP2 => Ins(1,4,5)P3 => Ins(1,3,4,5)P4"	18720
+"M00130:Inositol phosphate metabolism, PI=> PIP2 => Ins(1,4,5)P3 => Ins(1,3,4,5)P4"	227733
+"M00130:Inositol phosphate metabolism, PI=> PIP2 => Ins(1,4,5)P3 => Ins(1,3,4,5)P4"	18803
+"M00130:Inositol phosphate metabolism, PI=> PIP2 => Ins(1,4,5)P3 => Ins(1,3,4,5)P4"	18799
+"M00130:Inositol phosphate metabolism, PI=> PIP2 => Ins(1,4,5)P3 => Ins(1,3,4,5)P4"	72469
+"M00130:Inositol phosphate metabolism, PI=> PIP2 => Ins(1,4,5)P3 => Ins(1,3,4,5)P4"	18802
+"M00130:Inositol phosphate metabolism, PI=> PIP2 => Ins(1,4,5)P3 => Ins(1,3,4,5)P4"	18795
+"M00130:Inositol phosphate metabolism, PI=> PIP2 => Ins(1,4,5)P3 => Ins(1,3,4,5)P4"	18797
+"M00130:Inositol phosphate metabolism, PI=> PIP2 => Ins(1,4,5)P3 => Ins(1,3,4,5)P4"	18798
+"M00130:Inositol phosphate metabolism, PI=> PIP2 => Ins(1,4,5)P3 => Ins(1,3,4,5)P4"	18796
+"M00130:Inositol phosphate metabolism, PI=> PIP2 => Ins(1,4,5)P3 => Ins(1,3,4,5)P4"	234779
+"M00130:Inositol phosphate metabolism, PI=> PIP2 => Ins(1,4,5)P3 => Ins(1,3,4,5)P4"	74055
+"M00130:Inositol phosphate metabolism, PI=> PIP2 => Ins(1,4,5)P3 => Ins(1,3,4,5)P4"	114875
+"M00130:Inositol phosphate metabolism, PI=> PIP2 => Ins(1,4,5)P3 => Ins(1,3,4,5)P4"	320404
+"M00130:Inositol phosphate metabolism, PI=> PIP2 => Ins(1,4,5)P3 => Ins(1,3,4,5)P4"	228550
+"M00130:Inositol phosphate metabolism, PI=> PIP2 => Ins(1,4,5)P3 => Ins(1,3,4,5)P4"	233011
+"M00131:Inositol phosphate metabolism, Ins(1,3,4,5)P4 => Ins(1,3,4)P3 => myo-inositol"	212111
+"M00131:Inositol phosphate metabolism, Ins(1,3,4,5)P4 => Ins(1,3,4)P3 => myo-inositol"	16329
+"M00131:Inositol phosphate metabolism, Ins(1,3,4,5)P4 => Ins(1,3,4)P3 => myo-inositol"	269180
+"M00131:Inositol phosphate metabolism, Ins(1,3,4,5)P4 => Ins(1,3,4)P3 => myo-inositol"	234515
+"M00131:Inositol phosphate metabolism, Ins(1,3,4,5)P4 => Ins(1,3,4)P3 => myo-inositol"	114663
+"M00131:Inositol phosphate metabolism, Ins(1,3,4,5)P4 => Ins(1,3,4)P3 => myo-inositol"	55980
+"M00132:Inositol phosphate metabolism, Ins(1,3,4)P3 => phytate"	217837
+"M00132:Inositol phosphate metabolism, Ins(1,3,4)P3 => phytate"	69718
+"M00132:Inositol phosphate metabolism, Ins(1,3,4)P3 => phytate"	75678
+"M00133:Polyamine biosynthesis, arginine => agmatine => putrescine => spermidine"	11702
+"M00133:Polyamine biosynthesis, arginine => agmatine => putrescine => spermidine"	100041585
+"M00133:Polyamine biosynthesis, arginine => agmatine => putrescine => spermidine"	20810
+"M00134:Polyamine biosynthesis, arginine => ornithine => putrescine"	11846
+"M00134:Polyamine biosynthesis, arginine => ornithine => putrescine"	11847
+"M00134:Polyamine biosynthesis, arginine => ornithine => putrescine"	18263
+"M00134:Polyamine biosynthesis, arginine => ornithine => putrescine"	332942
+"M00135:GABA biosynthesis, eukaryotes, putrescine => GABA"	20229
+"M00135:GABA biosynthesis, eukaryotes, putrescine => GABA"	69215
+"M00135:GABA biosynthesis, eukaryotes, putrescine => GABA"	17161
+"M00135:GABA biosynthesis, eukaryotes, putrescine => GABA"	109731
+"M00135:GABA biosynthesis, eukaryotes, putrescine => GABA"	11669
+"M00135:GABA biosynthesis, eukaryotes, putrescine => GABA"	11671
+"M00135:GABA biosynthesis, eukaryotes, putrescine => GABA"	72535
+"M00135:GABA biosynthesis, eukaryotes, putrescine => GABA"	110695
+"M00135:GABA biosynthesis, eukaryotes, putrescine => GABA"	56752
+"M00140:C1-unit interconversion, prokaryotes"	20425
+"M00140:C1-unit interconversion, prokaryotes"	108037
+"M00141:C1-unit interconversion, eukaryotes"	20425
+"M00141:C1-unit interconversion, eukaryotes"	108037
+"M00141:C1-unit interconversion, eukaryotes"	108156
+"M00141:C1-unit interconversion, eukaryotes"	17768
+"M00141:C1-unit interconversion, eukaryotes"	665563
+"M00141:C1-unit interconversion, eukaryotes"	270685
+"M00142:NADH:ubiquinone oxidoreductase, mitochondria"	17716
+"M00142:NADH:ubiquinone oxidoreductase, mitochondria"	17717
+"M00142:NADH:ubiquinone oxidoreductase, mitochondria"	17718
+"M00142:NADH:ubiquinone oxidoreductase, mitochondria"	17719
+"M00142:NADH:ubiquinone oxidoreductase, mitochondria"	17720
+"M00142:NADH:ubiquinone oxidoreductase, mitochondria"	17721
+"M00142:NADH:ubiquinone oxidoreductase, mitochondria"	17722
+"M00143:NADH dehydrogenase (ubiquinone) Fe-S protein/flavoprotein complex, mitochondria"	227197
+"M00143:NADH dehydrogenase (ubiquinone) Fe-S protein/flavoprotein complex, mitochondria"	226646
+"M00143:NADH dehydrogenase (ubiquinone) Fe-S protein/flavoprotein complex, mitochondria"	68349
+"M00143:NADH dehydrogenase (ubiquinone) Fe-S protein/flavoprotein complex, mitochondria"	17993
+"M00143:NADH dehydrogenase (ubiquinone) Fe-S protein/flavoprotein complex, mitochondria"	595136
+"M00143:NADH dehydrogenase (ubiquinone) Fe-S protein/flavoprotein complex, mitochondria"	407785
+"M00143:NADH dehydrogenase (ubiquinone) Fe-S protein/flavoprotein complex, mitochondria"	623286
+"M00143:NADH dehydrogenase (ubiquinone) Fe-S protein/flavoprotein complex, mitochondria"	75406
+"M00143:NADH dehydrogenase (ubiquinone) Fe-S protein/flavoprotein complex, mitochondria"	225887
+"M00143:NADH dehydrogenase (ubiquinone) Fe-S protein/flavoprotein complex, mitochondria"	17995
+"M00143:NADH dehydrogenase (ubiquinone) Fe-S protein/flavoprotein complex, mitochondria"	72900
+"M00143:NADH dehydrogenase (ubiquinone) Fe-S protein/flavoprotein complex, mitochondria"	78330
+M00146:NADH dehydrogenase (ubiquinone) 1 alpha subcomplex	54405
+M00146:NADH dehydrogenase (ubiquinone) 1 alpha subcomplex	17991
+M00146:NADH dehydrogenase (ubiquinone) 1 alpha subcomplex	66091
+M00146:NADH dehydrogenase (ubiquinone) 1 alpha subcomplex	17992
+M00146:NADH dehydrogenase (ubiquinone) 1 alpha subcomplex	407790
+M00146:NADH dehydrogenase (ubiquinone) 1 alpha subcomplex	68202
+M00146:NADH dehydrogenase (ubiquinone) 1 alpha subcomplex	100502727
+M00146:NADH dehydrogenase (ubiquinone) 1 alpha subcomplex	67130
+M00146:NADH dehydrogenase (ubiquinone) 1 alpha subcomplex	66416
+M00146:NADH dehydrogenase (ubiquinone) 1 alpha subcomplex	68375
+M00146:NADH dehydrogenase (ubiquinone) 1 alpha subcomplex	66108
+M00146:NADH dehydrogenase (ubiquinone) 1 alpha subcomplex	67273
+M00146:NADH dehydrogenase (ubiquinone) 1 alpha subcomplex	70316
+M00146:NADH dehydrogenase (ubiquinone) 1 alpha subcomplex	102634451
+M00146:NADH dehydrogenase (ubiquinone) 1 alpha subcomplex	69875
+M00146:NADH dehydrogenase (ubiquinone) 1 alpha subcomplex	66414
+M00146:NADH dehydrogenase (ubiquinone) 1 alpha subcomplex	67184
+M00147:NADH dehydrogenase (ubiquinone) 1 beta subcomplex	102631912
+M00147:NADH dehydrogenase (ubiquinone) 1 beta subcomplex	68198
+M00147:NADH dehydrogenase (ubiquinone) 1 beta subcomplex	66495
+M00147:NADH dehydrogenase (ubiquinone) 1 beta subcomplex	68194
+M00147:NADH dehydrogenase (ubiquinone) 1 beta subcomplex	100042503
+M00147:NADH dehydrogenase (ubiquinone) 1 beta subcomplex	100041273
+M00147:NADH dehydrogenase (ubiquinone) 1 beta subcomplex	66046
+M00147:NADH dehydrogenase (ubiquinone) 1 beta subcomplex	230075
+M00147:NADH dehydrogenase (ubiquinone) 1 beta subcomplex	66916
+M00147:NADH dehydrogenase (ubiquinone) 1 beta subcomplex	67264
+M00147:NADH dehydrogenase (ubiquinone) 1 beta subcomplex	66218
+M00147:NADH dehydrogenase (ubiquinone) 1 beta subcomplex	68342
+M00147:NADH dehydrogenase (ubiquinone) 1 beta subcomplex	104130
+M00147:NADH dehydrogenase (ubiquinone) 1 beta subcomplex	66377
+M00147:NADH dehydrogenase (ubiquinone) 1 beta subcomplex	68197
+M00148:Succinate dehydrogenase (ubiquinone)	66052
+M00148:Succinate dehydrogenase (ubiquinone)	66925
+M00148:Succinate dehydrogenase (ubiquinone)	66945
+M00148:Succinate dehydrogenase (ubiquinone)	67680
+M00151:Cytochrome bc1 complex respiratory unit	17711
+M00151:Cytochrome bc1 complex respiratory unit	66445
+M00151:Cytochrome bc1 complex respiratory unit	66694
+M00152:Cytochrome bc1 complex	66694
+M00152:Cytochrome bc1 complex	17711
+M00152:Cytochrome bc1 complex	66445
+M00152:Cytochrome bc1 complex	22273
+M00152:Cytochrome bc1 complex	67003
+M00152:Cytochrome bc1 complex	66576
+M00152:Cytochrome bc1 complex	67530
+M00152:Cytochrome bc1 complex	22272
+M00152:Cytochrome bc1 complex	66152
+M00152:Cytochrome bc1 complex	102633050
+M00152:Cytochrome bc1 complex	66594
+M00154:Cytochrome c oxidase	70383
+M00154:Cytochrome c oxidase	17710
+M00154:Cytochrome c oxidase	17708
+M00154:Cytochrome c oxidase	17709
+M00154:Cytochrome c oxidase	12857
+M00154:Cytochrome c oxidase	84682
+M00154:Cytochrome c oxidase	12858
+M00154:Cytochrome c oxidase	102633230
+M00154:Cytochrome c oxidase	12859
+M00154:Cytochrome c oxidase	12861
+M00154:Cytochrome c oxidase	12862
+M00154:Cytochrome c oxidase	110323
+M00154:Cytochrome c oxidase	333182
+M00154:Cytochrome c oxidase	12864
+M00154:Cytochrome c oxidase	12866
+M00154:Cytochrome c oxidase	12865
+M00154:Cytochrome c oxidase	20463
+M00154:Cytochrome c oxidase	66142
+M00154:Cytochrome c oxidase	78174
+M00154:Cytochrome c oxidase	12867
+M00154:Cytochrome c oxidase	12868
+M00154:Cytochrome c oxidase	12869
+M00154:Cytochrome c oxidase	75483
+M00154:Cytochrome c oxidase	69802
+M00154:Cytochrome c oxidase	226139
+M00154:Cytochrome c oxidase	12856
+"M00158:F-type ATPase, eukaryotes"	11946
+"M00158:F-type ATPase, eukaryotes"	11947
+"M00158:F-type ATPase, eukaryotes"	11949
+"M00158:F-type ATPase, eukaryotes"	66043
+"M00158:F-type ATPase, eukaryotes"	67126
+"M00158:F-type ATPase, eukaryotes"	28080
+"M00158:F-type ATPase, eukaryotes"	17705
+"M00158:F-type ATPase, eukaryotes"	11950
+"M00158:F-type ATPase, eukaryotes"	11951
+"M00158:F-type ATPase, eukaryotes"	67942
+"M00158:F-type ATPase, eukaryotes"	228033
+"M00158:F-type ATPase, eukaryotes"	71679
+"M00158:F-type ATPase, eukaryotes"	11958
+"M00158:F-type ATPase, eukaryotes"	57423
+"M00158:F-type ATPase, eukaryotes"	27425
+"M00158:F-type ATPase, eukaryotes"	11957
+"M00158:F-type ATPase, eukaryotes"	17706
+"M00160:V-type ATPase, eukaryotes"	11964
+"M00160:V-type ATPase, eukaryotes"	11966
+"M00160:V-type ATPase, eukaryotes"	110935
+"M00160:V-type ATPase, eukaryotes"	66335
+"M00160:V-type ATPase, eukaryotes"	68775
+"M00160:V-type ATPase, eukaryotes"	73834
+"M00160:V-type ATPase, eukaryotes"	11973
+"M00160:V-type ATPase, eukaryotes"	74915
+"M00160:V-type ATPase, eukaryotes"	66144
+"M00160:V-type ATPase, eukaryotes"	66237
+"M00160:V-type ATPase, eukaryotes"	66290
+"M00160:V-type ATPase, eukaryotes"	338375
+"M00160:V-type ATPase, eukaryotes"	108664
+"M00160:V-type ATPase, eukaryotes"	11975
+"M00160:V-type ATPase, eukaryotes"	21871
+"M00160:V-type ATPase, eukaryotes"	27060
+"M00160:V-type ATPase, eukaryotes"	140494
+"M00160:V-type ATPase, eukaryotes"	114143
+"M00160:V-type ATPase, eukaryotes"	11984
+"M00160:V-type ATPase, eukaryotes"	11972
+"M00160:V-type ATPase, eukaryotes"	242341
+"M00160:V-type ATPase, eukaryotes"	11974
+"M00160:V-type ATPase, eukaryotes"	76252
+"M00160:V-type ATPase, eukaryotes"	54411
+M00165:Reductive pentose phosphate cycle (Calvin cycle)	18655
+M00165:Reductive pentose phosphate cycle (Calvin cycle)	18663
+M00165:Reductive pentose phosphate cycle (Calvin cycle)	14433
+M00165:Reductive pentose phosphate cycle (Calvin cycle)	115487111
+M00165:Reductive pentose phosphate cycle (Calvin cycle)	21991
+M00165:Reductive pentose phosphate cycle (Calvin cycle)	11674
+M00165:Reductive pentose phosphate cycle (Calvin cycle)	230163
+M00165:Reductive pentose phosphate cycle (Calvin cycle)	11676
+M00165:Reductive pentose phosphate cycle (Calvin cycle)	353204
+M00165:Reductive pentose phosphate cycle (Calvin cycle)	79459
+M00165:Reductive pentose phosphate cycle (Calvin cycle)	14121
+M00165:Reductive pentose phosphate cycle (Calvin cycle)	14120
+M00165:Reductive pentose phosphate cycle (Calvin cycle)	21881
+M00165:Reductive pentose phosphate cycle (Calvin cycle)	83553
+M00165:Reductive pentose phosphate cycle (Calvin cycle)	74419
+M00165:Reductive pentose phosphate cycle (Calvin cycle)	19895
+M00165:Reductive pentose phosphate cycle (Calvin cycle)	66646
+"M00168:CAM (Crassulacean acid metabolism), dark"	17449
+"M00168:CAM (Crassulacean acid metabolism), dark"	17448
+"M00169:CAM (Crassulacean acid metabolism), light"	17436
+"M00169:CAM (Crassulacean acid metabolism), light"	109264
+"M00170:C4-dicarboxylic acid cycle, phosphoenolpyruvate carboxykinase type"	14718
+"M00170:C4-dicarboxylic acid cycle, phosphoenolpyruvate carboxykinase type"	76615
+"M00170:C4-dicarboxylic acid cycle, phosphoenolpyruvate carboxykinase type"	14719
+"M00171:C4-dicarboxylic acid cycle, NAD - malic enzyme type"	14718
+"M00171:C4-dicarboxylic acid cycle, NAD - malic enzyme type"	76615
+"M00171:C4-dicarboxylic acid cycle, NAD - malic enzyme type"	14719
+"M00171:C4-dicarboxylic acid cycle, NAD - malic enzyme type"	17449
+"M00171:C4-dicarboxylic acid cycle, NAD - malic enzyme type"	17448
+"M00171:C4-dicarboxylic acid cycle, NAD - malic enzyme type"	108682
+"M00171:C4-dicarboxylic acid cycle, NAD - malic enzyme type"	76282
+"M00172:C4-dicarboxylic acid cycle, NADP - malic enzyme type"	17436
+"M00172:C4-dicarboxylic acid cycle, NADP - malic enzyme type"	109264
+M00173:Reductive citrate cycle (Arnon-Buchanan cycle)	18563
+M00173:Reductive citrate cycle (Arnon-Buchanan cycle)	14194
+M00173:Reductive citrate cycle (Arnon-Buchanan cycle)	15926
+M00173:Reductive citrate cycle (Arnon-Buchanan cycle)	269951
+M00173:Reductive citrate cycle (Arnon-Buchanan cycle)	11429
+M00173:Reductive citrate cycle (Arnon-Buchanan cycle)	11428
+"M00176:Assimilatory sulfate reduction, sulfate => H2S"	23972
+"M00176:Assimilatory sulfate reduction, sulfate => H2S"	23971
+"M00176:Assimilatory sulfate reduction, sulfate => H2S"	23972
+"M00176:Assimilatory sulfate reduction, sulfate => H2S"	23971
+"M00307:Pyruvate oxidation, pyruvate => acetyl-CoA"	18597
+"M00307:Pyruvate oxidation, pyruvate => acetyl-CoA"	18598
+"M00307:Pyruvate oxidation, pyruvate => acetyl-CoA"	68263
+"M00307:Pyruvate oxidation, pyruvate => acetyl-CoA"	235339
+"M00307:Pyruvate oxidation, pyruvate => acetyl-CoA"	13382
+"M00307:Pyruvate oxidation, pyruvate => acetyl-CoA"	27402
+"M00308:Semi-phosphorylative Entner-Doudoroff pathway, gluconate => glycerate-3P"	14433
+"M00308:Semi-phosphorylative Entner-Doudoroff pathway, gluconate => glycerate-3P"	115487111
+"M00308:Semi-phosphorylative Entner-Doudoroff pathway, gluconate => glycerate-3P"	18655
+"M00308:Semi-phosphorylative Entner-Doudoroff pathway, gluconate => glycerate-3P"	18663
+"M00338:Cysteine biosynthesis, homocysteine + serine => cysteine"	12411
+"M00338:Cysteine biosynthesis, homocysteine + serine => cysteine"	107869
+"M00344:Formaldehyde assimilation, xylulose monophosphate pathway"	225913
+"M00344:Formaldehyde assimilation, xylulose monophosphate pathway"	14121
+"M00344:Formaldehyde assimilation, xylulose monophosphate pathway"	14120
+"M00345:Formaldehyde assimilation, ribulose monophosphate pathway"	18641
+"M00345:Formaldehyde assimilation, ribulose monophosphate pathway"	18642
+"M00345:Formaldehyde assimilation, ribulose monophosphate pathway"	56421
+"M00346:Formaldehyde assimilation, serine pathway"	20425
+"M00346:Formaldehyde assimilation, serine pathway"	108037
+"M00346:Formaldehyde assimilation, serine pathway"	11611
+"M00346:Formaldehyde assimilation, serine pathway"	235582
+"M00346:Formaldehyde assimilation, serine pathway"	13806
+"M00346:Formaldehyde assimilation, serine pathway"	13807
+"M00346:Formaldehyde assimilation, serine pathway"	13808
+"M00346:Formaldehyde assimilation, serine pathway"	433182
+"M00357:Methanogenesis, acetate => methane"	68738
+"M00357:Methanogenesis, acetate => methane"	60525
+"M00368:Ethylene biosynthesis, methionine => ethylene"	11720
+"M00368:Ethylene biosynthesis, methionine => ethylene"	232087
+"M00368:Ethylene biosynthesis, methionine => ethylene"	108645
+M00373:Ethylmalonyl pathway	110460
+M00373:Ethylmalonyl pathway	110446
+M00373:Ethylmalonyl pathway	224530
+M00373:Ethylmalonyl pathway	110821
+M00373:Ethylmalonyl pathway	66904
+M00373:Ethylmalonyl pathway	73724
+M00373:Ethylmalonyl pathway	17850
+M00374:Dicarboxylate-hydroxybutyrate cycle	110460
+M00374:Dicarboxylate-hydroxybutyrate cycle	110446
+M00374:Dicarboxylate-hydroxybutyrate cycle	224530
+M00375:Hydroxypropionate-hydroxybutylate cycle	73724
+M00375:Hydroxypropionate-hydroxybutylate cycle	110460
+M00375:Hydroxypropionate-hydroxybutylate cycle	110446
+M00375:Hydroxypropionate-hydroxybutylate cycle	224530
+M00376:3-Hydroxypropionate bi-cycle	73724
+M00376:3-Hydroxypropionate bi-cycle	17850
+M00376:3-Hydroxypropionate bi-cycle	14194
+M00415:Fatty acid elongation in endoplasmic reticulum	54325
+M00415:Fatty acid elongation in endoplasmic reticulum	54326
+M00415:Fatty acid elongation in endoplasmic reticulum	12686
+M00415:Fatty acid elongation in endoplasmic reticulum	83603
+M00415:Fatty acid elongation in endoplasmic reticulum	68801
+M00415:Fatty acid elongation in endoplasmic reticulum	170439
+M00415:Fatty acid elongation in endoplasmic reticulum	74559
+M00415:Fatty acid elongation in endoplasmic reticulum	56348
+M00415:Fatty acid elongation in endoplasmic reticulum	70757
+M00415:Fatty acid elongation in endoplasmic reticulum	30963
+M00415:Fatty acid elongation in endoplasmic reticulum	66775
+M00415:Fatty acid elongation in endoplasmic reticulum	57874
+M00415:Fatty acid elongation in endoplasmic reticulum	106529
+M00532:Photorespiration	67078
+M00532:Photorespiration	56185
+M00532:Photorespiration	15112
+M00532:Photorespiration	12359
+M00532:Photorespiration	20425
+M00532:Photorespiration	108037
+M00532:Photorespiration	11611
+M00532:Photorespiration	104174
+M00532:Photorespiration	434437
+M00532:Photorespiration	13382
+M00532:Photorespiration	68133
+"M00546:Purine degradation, xanthine => urea"	22436
+"M00546:Purine degradation, xanthine => urea"	22262
+"M00546:Purine degradation, xanthine => urea"	76974
+"M00546:Purine degradation, xanthine => urea"	231903
+"M00546:Purine degradation, xanthine => urea"	94041
+"M00549:Nucleotide sugar biosynthesis, glucose => UDP-glucose"	15277
+"M00549:Nucleotide sugar biosynthesis, glucose => UDP-glucose"	212032
+"M00549:Nucleotide sugar biosynthesis, glucose => UDP-glucose"	15275
+"M00549:Nucleotide sugar biosynthesis, glucose => UDP-glucose"	216019
+"M00549:Nucleotide sugar biosynthesis, glucose => UDP-glucose"	103988
+"M00549:Nucleotide sugar biosynthesis, glucose => UDP-glucose"	72157
+"M00549:Nucleotide sugar biosynthesis, glucose => UDP-glucose"	66681
+"M00549:Nucleotide sugar biosynthesis, glucose => UDP-glucose"	216558
+"M00552:D-galactonate degradation, De Ley-Doudoroff pathway, D-galactonate => glycerate-3P"	14433
+"M00552:D-galactonate degradation, De Ley-Doudoroff pathway, D-galactonate => glycerate-3P"	115487111
+"M00552:D-galactonate degradation, De Ley-Doudoroff pathway, D-galactonate => glycerate-3P"	18655
+"M00552:D-galactonate degradation, De Ley-Doudoroff pathway, D-galactonate => glycerate-3P"	18663
+"M00554:Nucleotide sugar biosynthesis, galactose => UDP-galactose"	14635
+"M00554:Nucleotide sugar biosynthesis, galactose => UDP-galactose"	14430
+"M00555:Betaine biosynthesis, choline => betaine"	218865
+"M00555:Betaine biosynthesis, choline => betaine"	110695
+"M00565:Trehalose biosynthesis, D-glucose 1P => trehalose"	74185
+"M00570:Isoleucine biosynthesis, threonine => 2-oxobutanoate => isoleucine"	231691
+"M00570:Isoleucine biosynthesis, threonine => 2-oxobutanoate => isoleucine"	257635
+"M00570:Isoleucine biosynthesis, threonine => 2-oxobutanoate => isoleucine"	12035
+"M00570:Isoleucine biosynthesis, threonine => 2-oxobutanoate => isoleucine"	12036
+"M00572:Pimeloyl-ACP biosynthesis, BioC-BioH pathway, malonyl-ACP => pimeloyl-ACP"	71147
+"M00580:Pentose phosphate pathway, archaea, fructose 6P => ribose 5P"	19895
+"M00609:Cysteine biosynthesis, methionine => cysteine"	11720
+"M00609:Cysteine biosynthesis, methionine => cysteine"	232087
+"M00609:Cysteine biosynthesis, methionine => cysteine"	108645
+M00621:Glycine cleavage system	104174
+M00621:Glycine cleavage system	434437
+M00621:Glycine cleavage system	13382
+"M00632:Galactose degradation, Leloir pathway, galactose => alpha-D-glucose-1P"	319625
+"M00632:Galactose degradation, Leloir pathway, galactose => alpha-D-glucose-1P"	14635
+"M00632:Galactose degradation, Leloir pathway, galactose => alpha-D-glucose-1P"	14430
+"M00632:Galactose degradation, Leloir pathway, galactose => alpha-D-glucose-1P"	74246
+M00740:Methylaspartate cycle	12974
+M00740:Methylaspartate cycle	71832
+M00740:Methylaspartate cycle	15926
+M00740:Methylaspartate cycle	269951
+M00740:Methylaspartate cycle	14661
+"M00741:Propanoyl-CoA metabolism, propanoyl-CoA => succinyl-CoA"	110821
+"M00741:Propanoyl-CoA metabolism, propanoyl-CoA => succinyl-CoA"	66904
+"M00741:Propanoyl-CoA metabolism, propanoyl-CoA => succinyl-CoA"	73724
+"M00741:Propanoyl-CoA metabolism, propanoyl-CoA => succinyl-CoA"	17850
+M00793:dTDP-L-rhamnose biosynthesis	76355
+"M00840:Tetrahydrofolate biosynthesis, mediated by ribA and trpF, GTP => THF"	13361
+"M00841:Tetrahydrofolate biosynthesis, mediated by PTPS, GTP => THF"	14528
+"M00842:Tetrahydrobiopterin biosynthesis, GTP => BH4"	14528
+"M00842:Tetrahydrobiopterin biosynthesis, GTP => BH4"	19286
+"M00842:Tetrahydrobiopterin biosynthesis, GTP => BH4"	20751
+"M00843:L-threo-Tetrahydrobiopterin biosynthesis, GTP => L-threo-BH4"	14528
+"M00843:L-threo-Tetrahydrobiopterin biosynthesis, GTP => L-threo-BH4"	19286
+"M00844:Arginine biosynthesis, ornithine => arginine"	18416
+"M00844:Arginine biosynthesis, ornithine => arginine"	11898
+"M00844:Arginine biosynthesis, ornithine => arginine"	109900
+"M00845:Arginine biosynthesis, glutamate => acetylcitrulline => arginine"	11898
+"M00845:Arginine biosynthesis, glutamate => acetylcitrulline => arginine"	109900
+"M00846:Siroheme biosynthesis, glutamyl-tRNA => siroheme"	17025
+"M00846:Siroheme biosynthesis, glutamyl-tRNA => siroheme"	15288
+"M00846:Siroheme biosynthesis, glutamyl-tRNA => siroheme"	22276
+"M00849:C5 isoprenoid biosynthesis, mevalonate pathway, archaea"	110460
+"M00849:C5 isoprenoid biosynthesis, mevalonate pathway, archaea"	110446
+"M00849:C5 isoprenoid biosynthesis, mevalonate pathway, archaea"	224530
+"M00849:C5 isoprenoid biosynthesis, mevalonate pathway, archaea"	208715
+"M00849:C5 isoprenoid biosynthesis, mevalonate pathway, archaea"	15360
+"M00849:C5 isoprenoid biosynthesis, mevalonate pathway, archaea"	15357
+"M00849:C5 isoprenoid biosynthesis, mevalonate pathway, archaea"	17855
+"M00849:C5 isoprenoid biosynthesis, mevalonate pathway, archaea"	319554
+"M00849:C5 isoprenoid biosynthesis, mevalonate pathway, archaea"	320581
+"M00854:Glycogen biosynthesis, glucose-1P => glycogen/starch"	216558
+"M00854:Glycogen biosynthesis, glucose-1P => glycogen/starch"	14936
+"M00854:Glycogen biosynthesis, glucose-1P => glycogen/starch"	232493
+"M00854:Glycogen biosynthesis, glucose-1P => glycogen/starch"	27357
+"M00854:Glycogen biosynthesis, glucose-1P => glycogen/starch"	74185
+"M00855:Glycogen degradation, glycogen => glucose-6P"	19309
+"M00855:Glycogen degradation, glycogen => glucose-6P"	110078
+"M00855:Glycogen degradation, glycogen => glucose-6P"	110095
+"M00855:Glycogen degradation, glycogen => glucose-6P"	77559
+"M00855:Glycogen degradation, glycogen => glucose-6P"	66681
+"M00855:Glycogen degradation, glycogen => glucose-6P"	72157
+"M00861:beta-Oxidation, peroxisome, VLCFA"	80911
+"M00861:beta-Oxidation, peroxisome, VLCFA"	11430
+"M00861:beta-Oxidation, peroxisome, VLCFA"	15488
+"M00861:beta-Oxidation, peroxisome, VLCFA"	113868
+"M00861:beta-Oxidation, peroxisome, VLCFA"	235674
+"M00861:beta-Oxidation, peroxisome, VLCFA"	20280
+"M00862:beta-Oxidation, peroxisome, tri/dihydroxycholestanoyl-CoA => choloyl/chenodeoxycholoyl-CoA"	93732
+"M00862:beta-Oxidation, peroxisome, tri/dihydroxycholestanoyl-CoA => choloyl/chenodeoxycholoyl-CoA"	15488
+"M00862:beta-Oxidation, peroxisome, tri/dihydroxycholestanoyl-CoA => choloyl/chenodeoxycholoyl-CoA"	20280
+"M00868:Heme biosynthesis, animals and fungi, glycine => heme"	11656
+"M00868:Heme biosynthesis, animals and fungi, glycine => heme"	11655
+"M00868:Heme biosynthesis, animals and fungi, glycine => heme"	17025
+"M00868:Heme biosynthesis, animals and fungi, glycine => heme"	15288
+"M00868:Heme biosynthesis, animals and fungi, glycine => heme"	22276
+"M00868:Heme biosynthesis, animals and fungi, glycine => heme"	22275
+"M00868:Heme biosynthesis, animals and fungi, glycine => heme"	12892
+"M00868:Heme biosynthesis, animals and fungi, glycine => heme"	19044
+"M00868:Heme biosynthesis, animals and fungi, glycine => heme"	14151
+"M00872:O-glycan biosynthesis, mannose type (core M3)"	99011
+"M00872:O-glycan biosynthesis, mannose type (core M3)"	217734
+"M00872:O-glycan biosynthesis, mannose type (core M3)"	215494
+"M00872:O-glycan biosynthesis, mannose type (core M3)"	97884
+"M00872:O-glycan biosynthesis, mannose type (core M3)"	74653
+"M00872:O-glycan biosynthesis, mannose type (core M3)"	75847
+"M00872:O-glycan biosynthesis, mannose type (core M3)"	246179
+"M00872:O-glycan biosynthesis, mannose type (core M3)"	243853
+"M00872:O-glycan biosynthesis, mannose type (core M3)"	216395
+"M00872:O-glycan biosynthesis, mannose type (core M3)"	108902
+"M00872:O-glycan biosynthesis, mannose type (core M3)"	228366
+"M00872:O-glycan biosynthesis, mannose type (core M3)"	16795
+"M00873:Fatty acid biosynthesis in mitochondria, animals"	257633
+"M00873:Fatty acid biosynthesis in mitochondria, animals"	70316
+"M00873:Fatty acid biosynthesis in mitochondria, animals"	102634451
+"M00873:Fatty acid biosynthesis in mitochondria, animals"	223722
+"M00873:Fatty acid biosynthesis in mitochondria, animals"	71147
+"M00873:Fatty acid biosynthesis in mitochondria, animals"	234309
+"M00873:Fatty acid biosynthesis in mitochondria, animals"	14979
+"M00873:Fatty acid biosynthesis in mitochondria, animals"	109729085
+"M00873:Fatty acid biosynthesis in mitochondria, animals"	26922
+"M00874:Fatty acid biosynthesis in mitochondria, fungi"	107476
+"M00874:Fatty acid biosynthesis in mitochondria, fungi"	70316
+"M00874:Fatty acid biosynthesis in mitochondria, fungi"	102634451
+"M00874:Fatty acid biosynthesis in mitochondria, fungi"	223722
+"M00874:Fatty acid biosynthesis in mitochondria, fungi"	71147
+"M00874:Fatty acid biosynthesis in mitochondria, fungi"	26922
+"M00880:Molybdenum cofactor biosynthesis, GTP => molybdenum cofactor"	56738
+"M00880:Molybdenum cofactor biosynthesis, GTP => molybdenum cofactor"	17434
+"M00880:Molybdenum cofactor biosynthesis, GTP => molybdenum cofactor"	268566
+"M00881:Lipoic acid biosynthesis, plants and bacteria, octanoyl-ACP => dihydrolipoyl-E2/H"	79464
+"M00882:Lipoic acid biosynthesis, eukaryotes, octanoyl-ACP => dihydrolipoyl-H"	67164
+"M00882:Lipoic acid biosynthesis, eukaryotes, octanoyl-ACP => dihydrolipoyl-H"	79464
+"M00883:Lipoic acid biosynthesis, animals and bacteria, octanoyl-ACP => dihydrolipoyl-H => dihydrolipoyl-E2"	67164
+"M00883:Lipoic acid biosynthesis, animals and bacteria, octanoyl-ACP => dihydrolipoyl-H => dihydrolipoyl-E2"	79464
+"M00883:Lipoic acid biosynthesis, animals and bacteria, octanoyl-ACP => dihydrolipoyl-H => dihydrolipoyl-E2"	623661
+"M00884:Lipoic acid biosynthesis, octanoyl-CoA => dihydrolipoyl-E2"	79464
+"M00885:Meromycolic acid biosynthesis, initiation and elongation FAS II (KasA)"	223722
+"M00886:Meromycolic acid biosynthesis, initiation and elongation FAS II (KasA and KasB)"	223722
+"M00892:UDP-N-acetyl-D-glucosamine biosynthesis, eukaryotes, glucose => UDP-GlcNAc"	15277
+"M00892:UDP-N-acetyl-D-glucosamine biosynthesis, eukaryotes, glucose => UDP-GlcNAc"	212032
+"M00892:UDP-N-acetyl-D-glucosamine biosynthesis, eukaryotes, glucose => UDP-GlcNAc"	15275
+"M00892:UDP-N-acetyl-D-glucosamine biosynthesis, eukaryotes, glucose => UDP-GlcNAc"	216019
+"M00892:UDP-N-acetyl-D-glucosamine biosynthesis, eukaryotes, glucose => UDP-GlcNAc"	103988
+"M00892:UDP-N-acetyl-D-glucosamine biosynthesis, eukaryotes, glucose => UDP-GlcNAc"	14751
+"M00892:UDP-N-acetyl-D-glucosamine biosynthesis, eukaryotes, glucose => UDP-GlcNAc"	14583
+"M00892:UDP-N-acetyl-D-glucosamine biosynthesis, eukaryotes, glucose => UDP-GlcNAc"	14584
+"M00892:UDP-N-acetyl-D-glucosamine biosynthesis, eukaryotes, glucose => UDP-GlcNAc"	54342
+"M00892:UDP-N-acetyl-D-glucosamine biosynthesis, eukaryotes, glucose => UDP-GlcNAc"	109785
+"M00892:UDP-N-acetyl-D-glucosamine biosynthesis, eukaryotes, glucose => UDP-GlcNAc"	107652
+"M00892:UDP-N-acetyl-D-glucosamine biosynthesis, eukaryotes, glucose => UDP-GlcNAc"	227620
+"M00897:Thiamine biosynthesis, plants, AIR (+ NAD+) => TMP/thiamine/TPP"	29807
+"M00898:Thiamine biosynthesis, pyridoxal-5P => TMP/thiamine/TPP"	29807
+"M00911:Riboflavin biosynthesis, fungi, GTP => riboflavin/FMN/FAD"	54391
+"M00911:Riboflavin biosynthesis, fungi, GTP => riboflavin/FMN/FAD"	319945
+"M00912:NAD biosynthesis, tryptophan => quinolinate => NAD"	56720
+"M00912:NAD biosynthesis, tryptophan => quinolinate => NAD"	15930
+"M00912:NAD biosynthesis, tryptophan => quinolinate => NAD"	209176
+"M00912:NAD biosynthesis, tryptophan => quinolinate => NAD"	71562
+"M00912:NAD biosynthesis, tryptophan => quinolinate => NAD"	98256
+"M00912:NAD biosynthesis, tryptophan => quinolinate => NAD"	70789
+"M00912:NAD biosynthesis, tryptophan => quinolinate => NAD"	107766
+"M00912:NAD biosynthesis, tryptophan => quinolinate => NAD"	67375
+"M00912:NAD biosynthesis, tryptophan => quinolinate => NAD"	74080
+"M00912:NAD biosynthesis, tryptophan => quinolinate => NAD"	66454
+"M00912:NAD biosynthesis, tryptophan => quinolinate => NAD"	226518
+"M00912:NAD biosynthesis, tryptophan => quinolinate => NAD"	78914
+"M00913:Pantothenate biosynthesis, 2-oxoisovalerate/spermine => pantothenate"	11669
+"M00913:Pantothenate biosynthesis, 2-oxoisovalerate/spermine => pantothenate"	11671
+"M00913:Pantothenate biosynthesis, 2-oxoisovalerate/spermine => pantothenate"	72535
+"M00917:Phytosterol biosynthesis, squalene 2,3-epoxide => campesterol/sitosterol"	13121
+"M00917:Phytosterol biosynthesis, squalene 2,3-epoxide => campesterol/sitosterol"	73166
+"M00917:Phytosterol biosynthesis, squalene 2,3-epoxide => campesterol/sitosterol"	13595
+"M00917:Phytosterol biosynthesis, squalene 2,3-epoxide => campesterol/sitosterol"	235293
+"M00917:Phytosterol biosynthesis, squalene 2,3-epoxide => campesterol/sitosterol"	13360
+"M00917:Phytosterol biosynthesis, squalene 2,3-epoxide => campesterol/sitosterol"	74754
+"M00926:Heme biosynthesis, bacteria, glutamyl-tRNA => coproporphyrin III => heme"	17025
+"M00926:Heme biosynthesis, bacteria, glutamyl-tRNA => coproporphyrin III => heme"	15288
+"M00926:Heme biosynthesis, bacteria, glutamyl-tRNA => coproporphyrin III => heme"	22276
+"M00926:Heme biosynthesis, bacteria, glutamyl-tRNA => coproporphyrin III => heme"	22275
+"M00926:Heme biosynthesis, bacteria, glutamyl-tRNA => coproporphyrin III => heme"	19044
+"M00926:Heme biosynthesis, bacteria, glutamyl-tRNA => coproporphyrin III => heme"	14151
+"M00936:Melatonin biosynthesis, plants, tryptophan => serotonin => melatonin"	13195
+"M00938:Pyrimidine deoxyribonucleotide biosynthesis, UDP => dTTP"	20133
+"M00938:Pyrimidine deoxyribonucleotide biosynthesis, UDP => dTTP"	382985
+"M00938:Pyrimidine deoxyribonucleotide biosynthesis, UDP => dTTP"	20135
+"M00938:Pyrimidine deoxyribonucleotide biosynthesis, UDP => dTTP"	54369
+"M00938:Pyrimidine deoxyribonucleotide biosynthesis, UDP => dTTP"	18103
+"M00938:Pyrimidine deoxyribonucleotide biosynthesis, UDP => dTTP"	56520
+"M00938:Pyrimidine deoxyribonucleotide biosynthesis, UDP => dTTP"	79059
+"M00938:Pyrimidine deoxyribonucleotide biosynthesis, UDP => dTTP"	171567
+"M00938:Pyrimidine deoxyribonucleotide biosynthesis, UDP => dTTP"	18102
+"M00938:Pyrimidine deoxyribonucleotide biosynthesis, UDP => dTTP"	633979
+"M00938:Pyrimidine deoxyribonucleotide biosynthesis, UDP => dTTP"	110074
+"M00938:Pyrimidine deoxyribonucleotide biosynthesis, UDP => dTTP"	22171
+"M00938:Pyrimidine deoxyribonucleotide biosynthesis, UDP => dTTP"	21915
+"M00953:Mugineic acid biosynthesis, methionine => 3-epihydroxymugineic acid"	11720
+"M00953:Mugineic acid biosynthesis, methionine => 3-epihydroxymugineic acid"	232087
+"M00953:Mugineic acid biosynthesis, methionine => 3-epihydroxymugineic acid"	108645
+"M00957:Lysine degradation, bacteria, L-lysine => glutarate => succinate/acetyl-CoA"	270076
+"M00957:Lysine degradation, bacteria, L-lysine => glutarate => succinate/acetyl-CoA"	110460
+"M00957:Lysine degradation, bacteria, L-lysine => glutarate => succinate/acetyl-CoA"	110446
+"M00957:Lysine degradation, bacteria, L-lysine => glutarate => succinate/acetyl-CoA"	224530
+"M00958:Adenine ribonucleotide degradation, AMP => Urate"	11717
+"M00958:Adenine ribonucleotide degradation, AMP => Urate"	109674
+"M00958:Adenine ribonucleotide degradation, AMP => Urate"	229665
+"M00958:Adenine ribonucleotide degradation, AMP => Urate"	76952
+"M00958:Adenine ribonucleotide degradation, AMP => Urate"	70881
+"M00958:Adenine ribonucleotide degradation, AMP => Urate"	230718
+"M00958:Adenine ribonucleotide degradation, AMP => Urate"	50773
+"M00958:Adenine ribonucleotide degradation, AMP => Urate"	103850
+"M00958:Adenine ribonucleotide degradation, AMP => Urate"	66763
+"M00958:Adenine ribonucleotide degradation, AMP => Urate"	23959
+"M00958:Adenine ribonucleotide degradation, AMP => Urate"	76952
+"M00958:Adenine ribonucleotide degradation, AMP => Urate"	70881
+"M00958:Adenine ribonucleotide degradation, AMP => Urate"	230718
+"M00958:Adenine ribonucleotide degradation, AMP => Urate"	50773
+"M00958:Adenine ribonucleotide degradation, AMP => Urate"	103850
+"M00958:Adenine ribonucleotide degradation, AMP => Urate"	66763
+"M00958:Adenine ribonucleotide degradation, AMP => Urate"	23959
+"M00958:Adenine ribonucleotide degradation, AMP => Urate"	11486
+"M00958:Adenine ribonucleotide degradation, AMP => Urate"	210808
+"M00958:Adenine ribonucleotide degradation, AMP => Urate"	18950
+"M00958:Adenine ribonucleotide degradation, AMP => Urate"	667034
+"M00958:Adenine ribonucleotide degradation, AMP => Urate"	210808
+"M00958:Adenine ribonucleotide degradation, AMP => Urate"	22436
+"M00959:Guanine ribonucleotide degradation, GMP => Urate"	76952
+"M00959:Guanine ribonucleotide degradation, GMP => Urate"	70881
+"M00959:Guanine ribonucleotide degradation, GMP => Urate"	230718
+"M00959:Guanine ribonucleotide degradation, GMP => Urate"	50773
+"M00959:Guanine ribonucleotide degradation, GMP => Urate"	103850
+"M00959:Guanine ribonucleotide degradation, GMP => Urate"	66763
+"M00959:Guanine ribonucleotide degradation, GMP => Urate"	23959
+"M00959:Guanine ribonucleotide degradation, GMP => Urate"	18950
+"M00959:Guanine ribonucleotide degradation, GMP => Urate"	667034
+"M00959:Guanine ribonucleotide degradation, GMP => Urate"	210808
+"M00959:Guanine ribonucleotide degradation, GMP => Urate"	14544
+"M00959:Guanine ribonucleotide degradation, GMP => Urate"	22436
+"M00968:Pentose bisphosphate pathway (nucleoside degradation), archaea, nucleoside/NMP => 3-PGA/glycerone phosphate"	22271
+"M00968:Pentose bisphosphate pathway (nucleoside degradation), archaea, nucleoside/NMP => 3-PGA/glycerone phosphate"	76654
+"M00970:Proline degradation, proline => glutamate"	19125
+"M00970:Proline degradation, proline => glutamate"	212647
+M00972:Proline metabolism	18242
+M00972:Proline metabolism	209027
+M00972:Proline metabolism	69051
+M00972:Proline metabolism	66194
+M00972:Proline metabolism	19125
+"M00974:Betaine metabolism, animals, betaine => glycine"	12116
+"M00974:Betaine metabolism, animals, betaine => glycine"	74129
+"M00974:Betaine metabolism, animals, betaine => glycine"	19193
+"M00974:Betaine metabolism, animals, betaine => glycine"	192166
+"M00975:Betaine degradation, bacteria, betaine => pyruvate"	74129
+"M00975:Betaine degradation, bacteria, betaine => pyruvate"	20425
+"M00975:Betaine degradation, bacteria, betaine => pyruvate"	108037
+"M00976:C19-Steroid hormone biosynthesis, pregnenolone => testosterone => dihydrotestosterone"	13074
+"M00976:C19-Steroid hormone biosynthesis, pregnenolone => testosterone => dihydrotestosterone"	15495
+"M00976:C19-Steroid hormone biosynthesis, pregnenolone => testosterone => dihydrotestosterone"	15496
+"M00976:C19-Steroid hormone biosynthesis, pregnenolone => testosterone => dihydrotestosterone"	15493
+"M00976:C19-Steroid hormone biosynthesis, pregnenolone => testosterone => dihydrotestosterone"	15492
+"M00976:C19-Steroid hormone biosynthesis, pregnenolone => testosterone => dihydrotestosterone"	15497
+"M00976:C19-Steroid hormone biosynthesis, pregnenolone => testosterone => dihydrotestosterone"	100043456
+"M00976:C19-Steroid hormone biosynthesis, pregnenolone => testosterone => dihydrotestosterone"	100043461
+"M00976:C19-Steroid hormone biosynthesis, pregnenolone => testosterone => dihydrotestosterone"	15494
+"M00976:C19-Steroid hormone biosynthesis, pregnenolone => testosterone => dihydrotestosterone"	15487
+"M00976:C19-Steroid hormone biosynthesis, pregnenolone => testosterone => dihydrotestosterone"	15486
+"M00976:C19-Steroid hormone biosynthesis, pregnenolone => testosterone => dihydrotestosterone"	27400
+"M00976:C19-Steroid hormone biosynthesis, pregnenolone => testosterone => dihydrotestosterone"	14979
+"M00976:C19-Steroid hormone biosynthesis, pregnenolone => testosterone => dihydrotestosterone"	78925
+"M00976:C19-Steroid hormone biosynthesis, pregnenolone => testosterone => dihydrotestosterone"	94224
+"M00976:C19-Steroid hormone biosynthesis, pregnenolone => testosterone => dihydrotestosterone"	57357
+"M00977:C19-Steroid hormone biosynthesis (androgen backdoor pathway), pregnenolone => androsterone => dihydrotestosterone"	13074
+"M00977:C19-Steroid hormone biosynthesis (androgen backdoor pathway), pregnenolone => androsterone => dihydrotestosterone"	15495
+"M00977:C19-Steroid hormone biosynthesis (androgen backdoor pathway), pregnenolone => androsterone => dihydrotestosterone"	15496
+"M00977:C19-Steroid hormone biosynthesis (androgen backdoor pathway), pregnenolone => androsterone => dihydrotestosterone"	15493
+"M00977:C19-Steroid hormone biosynthesis (androgen backdoor pathway), pregnenolone => androsterone => dihydrotestosterone"	15492
+"M00977:C19-Steroid hormone biosynthesis (androgen backdoor pathway), pregnenolone => androsterone => dihydrotestosterone"	15497
+"M00977:C19-Steroid hormone biosynthesis (androgen backdoor pathway), pregnenolone => androsterone => dihydrotestosterone"	100043456
+"M00977:C19-Steroid hormone biosynthesis (androgen backdoor pathway), pregnenolone => androsterone => dihydrotestosterone"	100043461
+"M00977:C19-Steroid hormone biosynthesis (androgen backdoor pathway), pregnenolone => androsterone => dihydrotestosterone"	15494
+"M00977:C19-Steroid hormone biosynthesis (androgen backdoor pathway), pregnenolone => androsterone => dihydrotestosterone"	78925
+"M00977:C19-Steroid hormone biosynthesis (androgen backdoor pathway), pregnenolone => androsterone => dihydrotestosterone"	27400
+"M00977:C19-Steroid hormone biosynthesis (androgen backdoor pathway), pregnenolone => androsterone => dihydrotestosterone"	15487
+M00978:Ornithine-ammonia cycle	14645
+M00978:Ornithine-ammonia cycle	18416
+M00978:Ornithine-ammonia cycle	11898
+M00978:Ornithine-ammonia cycle	109900
+M00982:Methylcitrate cycle	14194
+M00983:GPI-anchor remodeling	241062
+M00983:GPI-anchor remodeling	225651
+M00983:GPI-anchor remodeling	320655
+M00983:GPI-anchor remodeling	233575

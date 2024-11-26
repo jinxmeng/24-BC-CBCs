@@ -1,0 +1,9 @@
+ID	Description	GeneRatio	BgRatio	pvalue	p.adjust	qvalue	geneID	Count
+M00577:Biotin biosynthesis, BioW pathway, pimelate => pimeloyl-CoA => biotin	M00577:Biotin biosynthesis, BioW pathway, pimelate => pimeloyl-CoA => biotin	2/13	6/1819	0.000696249541166446	0.00825194298257188	0.00306573733098646	C00120/C02656	2
+M00622:Nicotinate degradation, nicotinate => fumarate	M00622:Nicotinate degradation, nicotinate => fumarate	2/13	7/1819	0.000970816821479045	0.00825194298257188	0.00306573733098646	C00253/C01020	2
+M00638:Salicylate degradation, salicylate => gentisate	M00638:Salicylate degradation, salicylate => gentisate	1/13	2/1819	0.0142463944030461	0.0757995766904115	0.0281608334453541	C00628	1
+M00579:Phosphate acetyltransferase-acetate kinase pathway, acetyl-CoA => acetate	M00579:Phosphate acetyltransferase-acetate kinase pathway, acetyl-CoA => acetate	1/13	3/1819	0.021299116952722	0.0757995766904115	0.0281608334453541	C00033	1
+M00088:Ketone body biosynthesis, acetyl-CoA => acetoacetate/3-hydroxybutyrate/acetone	M00088:Ketone body biosynthesis, acetyl-CoA => acetoacetate/3-hydroxybutyrate/acetone	1/13	6/1819	0.042178789475061	0.0757995766904115	0.0281608334453541	C01089	1
+M00137:Flavanone biosynthesis, phenylalanine => naringenin	M00137:Flavanone biosynthesis, phenylalanine => naringenin	1/13	6/1819	0.042178789475061	0.0757995766904115	0.0281608334453541	C00811	1
+M00950:Biotin biosynthesis, BioU pathway, pimeloyl-ACP/CoA => biotin	M00950:Biotin biosynthesis, BioU pathway, pimeloyl-ACP/CoA => biotin	1/13	6/1819	0.042178789475061	0.0757995766904115	0.0281608334453541	C00120	1
+M00539:Cumate degradation, p-cumate => 2-oxopent-4-enoate + 2-methylpropanoate	M00539:Cumate degradation, p-cumate => 2-oxopent-4-enoate + 2-methylpropanoate	1/13	7/1819	0.0490467849173251	0.0757995766904115	0.0281608334453541	C02632	1

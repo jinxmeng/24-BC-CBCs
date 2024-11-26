@@ -1,0 +1,17 @@
+sample	group
+BC_0d_1	BC_0d
+BC_0d_2	BC_0d
+BC_0d_3	BC_0d
+BC_0d_4	BC_0d
+BC_3d_1	BC_3d
+BC_3d_2	BC_3d
+BC_3d_3	BC_3d
+BC_3d_4	BC_3d
+Veh_0d_1	Veh_0d
+Veh_0d_2	Veh_0d
+Veh_0d_3	Veh_0d
+Veh_0d_4	Veh_0d
+Veh_3d_1	Veh_3d
+Veh_3d_2	Veh_3d
+Veh_3d_3	Veh_3d
+Veh_3d_4	Veh_3d

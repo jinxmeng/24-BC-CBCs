@@ -1,0 +1,432 @@
+cpd_id	cpd_name	cpd_abbr	cpd_class	cpd_KEGG	cpd_HMDB
+CAS006868-73-1	3,6-Diketocholanic Acid	3,6-Diketocholanic Acid	Bile acids		
+CAS10325-79-8	Etienic Acid	Etienic Acid	Bile acids		
+CAS1053-37-8	Lithocholenic Acid	Lithocholenic Acid	Bile acids		
+CAS1499-46-3	Histidine methyl ester	Histidine methyl ester	Amino acids and Peptides		
+CAS15173-54-3	Etianic Acid	Etianic Acid	Bile acids		
+CAS23945-44-0	2,4-Dihydroxypyrimidine-5-carboxylic acid	2,4-Dihydroxypyrimidine-5-carboxylic acid	Pyrimidines and pyrimidine derivatives		
+CAS24404-83-9	Glycolithocholic acid(GLCA)	Glycolithocholic acid(GLCA)		C15557	
+CAS2812-32-0	N,N-Dimethyl-L-Valine	N,N-Dimethyl-L-Valine	Amino acids and Peptides		
+CAS2955-27-3	Ursocholic Acid(UCA)	Ursocholic Acid(UCA)		C17644	
+CAS4271-30-1	N-(4-Aminobenzoyl)-L-glutamic acid	N-(4-Aminobenzoyl)-L-glutamic acid	Amino acids and Peptides		
+CAS4651-67-6	7-Ketolithocholic acid(7-keto-LCA)	7-Ketolithocholic acid(7-keto-LCA)			
+CAS5143-55-5	12-Ketolithocholic Acid Acetate, Methyl Ester	12-Ketolithocholic Acid Acetate, Methyl Ester	Bile acids		
+CAS547-75-1	Gamma Muricholic acid	Gamma Muricholic acid			
+CAS60696-62-0	23-Norcholic Acid	23-Norcholic Acid	Bile acids		
+CAS83-44-3	Choleic Acid	Choleic Acid	Bile acids		
+CAS859-97-2	3,7-Diketocholanic Acid	3,7-Diketocholanic Acid	Bile acids		
+HM4000001	12-Dehydrocholic Acid Diacetate	12-Dehydrocholic Acid Diacetate	Bile acids		
+HM4000006	23-Norcholic Acid Diacetate	23-Norcholic Acid Diacetate	Bile acids		
+HM4000007	23-Nordeoxycholic Acid Diacetate	23-Nordeoxycholic Acid Diacetate	Bile acids		
+HM4000010	3,12-Diketocholanic Acid Methyl Ester	3,12-Diketocholanic Acid Methyl Ester	Bile acids		
+HM4000012	3,6-Diketocholanic Acid Ethyl Ester	3,6-Diketocholanic Acid Ethyl Ester	Bile acids		
+HM4000018	7-Ketolithocholic Acid Acetate Methyl Ester	7-Ketolithocholic Acid Acetate Methyl Ester	Bile acids		
+HM4000019	7-Ketolithocholic Acid Methyl Ester	7-Ketolithocholic Acid Methyl Ester	Bile acids		
+HM4000024	Chenodeoxycholic Acid Methyl Ester	Chenodeoxycholic Acid Methyl Ester	Bile acids		
+HM4000032	Etiadienic Acid	Etiadienic Acid	Bile acids		
+HM4000033	Etiadienic Acid 3-Acetate	Etiadienic Acid 3-Acetate	Bile acids		
+HM4000034	Etiadienic Acid Ethyl Ester	Etiadienic Acid Ethyl Ester	Bile acids		
+HM4000038	Etienic Acid Acetate	Etienic Acid Acetate	Bile acids		
+HM4000047	Lithocholic Acid Acetate	Lithocholic Acid Acetate	Bile acids		
+HM4000048	Lithocholic Acid Acetate Methyl Ester	Lithocholic Acid Acetate Methyl Ester	Bile acids		
+HM4000119	4-androsten-11beta,17alpha-diol-3-one-17beta-carboxylic acid	4-androsten-11beta,17alpha-diol-3-one-17beta-carboxylic acid			
+HM4000122	5beta-androstan-3beta-ol-17beta-carboxylic acid 3-acetate	5beta-androstan-3beta-ol-17beta-carboxylic acid 3-acetate			
+HM4000124	23,24-bisnor-5-cholenic acid-3beta-OL acetate	23,24-bisnor-5-cholenic acid-3beta-OL acetate			
+HM4000125	Alloisolithocholic Acid(AILCA)	Alloisolithocholic Acid(AILCA)			
+HM4000130	Glycohyodeoxycholic Acid(GHDCA)	Glycohyodeoxycholic Acid(GHDCA)			
+HM4000131	Taurohyodeoxycholic Acid(THDCA)	Taurohyodeoxycholic Acid(THDCA)			
+HM4000133	Glycochenodeoxycholic acid(GCDCA)	Glycochenodeoxycholic acid(GCDCA)		C05466	
+HM4000137	12-Dehydrocholic Acid Methyl Ester	12-Dehydrocholic Acid Methyl Ester			
+HM4000138	Dioxolithocholic Acid(di-oxo-LCA)	Dioxolithocholic Acid(di-oxo-LCA)			
+HM4000141	Dehydrolithocholic acid (DHLCA)	Dehydrolithocholic acid (DHLCA)			
+HM4000142	Tauro-zeta-muricholic acid	Tauro-zeta-muricholic acid			
+HM4000144	alpha-Muricholic acid (alpha-MCA)	alpha-Muricholic acid (alpha-MCA)		C17647	
+HM4000146	beta-Muricholic Acid (beta-MCA)	beta-Muricholic Acid (beta-MCA)		C17726	
+HM4000152	Apocholic Acid(APCA)	Apocholic Acid(APCA)		C15375	
+HM4000153	23-Nordeoxycholic acid	23-Nordeoxycholic acid			
+HMDB0000008	2-Hydroxybutyric acid	2-Hydroxybutyric acid	Fatty acids	C05984	HMDB0000008
+HMDB0000011	3-Hydroxybutyric acid	3-Hydroxybutyric acid	Organic acids	C01089	HMDB0000011
+HMDB0000020	p-Hydroxyphenylacetic acid	p-Hydroxyphenylacetic acid	Benzenoids	C00642	HMDB0000020
+HMDB0000030	Biotin	Biotin	Biotin and derivatives	C00120	HMDB0000030
+HMDB0000034	Adenine	Adenine	Imidazopyrimidines	C00147	HMDB0000034
+HMDB0000036	Taurocholic Acid (TCA)	Taurocholic Acid (TCA)	Bile acids	"	C05122 "	HMDB0000036
+HMDB0000039	Butyric acid	Butyric acid	Fatty acids	C00246	HMDB0000039
+HMDB0000042	Acetic acid	Acetic acid	Fatty acids	C00033	HMDB0000042
+HMDB0000043	Betaine	Betaine	Amino acids and Peptides		HMDB0000043
+HMDB0000044	Ascorbic acid	Ascorbic acid	Organoheterocyclic	C00072	HMDB0000044
+HMDB0000045	Adenosine monophosphate	Adenosine monophosphate	Nucleosides	C00020	HMDB0000045
+HMDB0000048	Melibiose	Melibiose	Carbohydrates		HMDB0000048
+HMDB0000058	Cyclic AMP	Cyclic AMP	Nucleosides	C00575	HMDB0000058
+HMDB0000060	Acetoacetic acid	Acetoacetic acid	Organic acids	C00164	HMDB0000060
+HMDB0000062	L-Carnitine (C0)	L-Carnitine (C0)	Carnitines or Acyl carnitines	C00318	HMDB0000062
+HMDB0000064	Creatine	Creatine	Amino acids and Peptides	C00300	HMDB0000064
+HMDB0000072	Aconitic acid	Aconitic acid	Organic acids	C00417	HMDB0000072
+HMDB0000082	Cytidine triphosphate	Cytidine triphosphate	Nucleosides	C00063	HMDB0000082
+HMDB0000092	Dimethylglycine	Dimethylglycine	Amino acids and Peptides	C01026	HMDB0000092
+HMDB0000094	Citric acid	Citric acid	Organic acids	C00158	HMDB0000094
+HMDB0000107	Galactitol	Galactitol	Organooxygen	C01697	HMDB0000107
+HMDB0000112	Gamma-Aminobutyric acid (GABA)	Gamma-Aminobutyric acid (GABA)	Amino acids and Peptides	C00334	HMDB0000112
+HMDB0000115	Glycolic acid	Glycolic acid	Organic acids	C00160	HMDB0000115
+HMDB0000118	Homovanillic acid	Homovanillic acid	Benzenoids	C05582	HMDB0000118
+HMDB0000121	Folic acid	Folic acid	Benzenoids	C00504	HMDB0000121
+HMDB0000122	Glucose	Glucose	Carbohydrates	C00221	HMDB0000122
+HMDB0000123	Glycine(Gly)	Glycine(Gly)	Amino acids and Peptides	C00037	HMDB0000123
+HMDB0000128	Guanidoacetic acid	Guanidoacetic acid	Organic acids	C00581	HMDB0000128
+HMDB0000130	Homogentisic acid	Homogentisic acid	Benzenoids	C00544	HMDB0000130
+HMDB0000133	Guanosine (G)	Guanosine (G)	Nucleosides	C00387	HMDB0000133
+HMDB0000134	Fumaric acid	Fumaric acid	Organic acids	C00122	HMDB0000134
+HMDB0000138	Glycocholic acid (GCA)	Glycocholic acid (GCA)	Bile acids	C01921	HMDB0000138
+HMDB0000139	Glyceric acid	Glyceric acid	Carbohydrates	C00258	HMDB0000139
+HMDB0000148	L-Glutamic acid(Glu)	L-Glutamic acid(Glu)	Amino acids and Peptides	C00025	HMDB0000148
+HMDB0000150	Gluconolactone	Gluconolactone	Carbohydrates	C00198	HMDB0000150
+HMDB0000152	Gentisic acid	Gentisic acid	Benzenoids	C00628	HMDB0000152
+HMDB0000153	Estriol	Estriol	Steroids and steroid derivatives	C05141	HMDB0000153
+HMDB0000156	Malic acid	Malic acid	Organic acids	C00149	HMDB0000156
+HMDB0000158	L-Tyrosine(Tyr)	L-Tyrosine(Tyr)	Amino acids and Peptides	C00082	HMDB0000158
+HMDB0000159	L-Phenylalanine(Phe)	L-Phenylalanine(Phe)	Amino acids and Peptides	C00079	HMDB0000159
+HMDB0000161	L-Alanine(Ala)	L-Alanine(Ala)	Amino acids and Peptides	C00041	HMDB0000161
+HMDB0000162	L-Proline(Pro)	L-Proline(Pro)	Amino acids and Peptides	C00148	HMDB0000162
+HMDB0000168	L-Asparagine	L-Asparagine	Amino acids and Peptides	C00152	HMDB0000168
+HMDB0000169	Mannose	Mannose	Carbohydrates	C00936	HMDB0000169
+HMDB0000172	Isoleucine	Isoleucine	Amino acids and Peptides	C00407	HMDB0000172
+HMDB0000174	L-Fucose	L-Fucose	Carbohydrates	C01019	HMDB0000174
+HMDB0000176	Maleic acid	Maleic acid	Organic acids	C01384	HMDB0000176
+HMDB0000177	L-Histidine(His)	L-Histidine(His)	Amino acids and Peptides	C00135	HMDB0000177
+HMDB0000182	L-Lysine	L-Lysine	Amino acids and Peptides	C00047	HMDB0000182
+HMDB0000187	L-Serine(Ser)	L-Serine(Ser)	Amino acids and Peptides	C00065	HMDB0000187
+HMDB0000190	L-Lactic acid	L-Lactic acid	Organic acids	C00186	HMDB0000190
+HMDB0000191	L-Aspartic acid(Asp)	L-Aspartic acid(Asp)	Amino acids and Peptides	C00049	HMDB0000191
+HMDB0000192	Cystine	Cystine	Amino acids, peptides, and alogues	C00491	HMDB0000192
+HMDB0000193	Isocitric acid	Isocitric acid	Organic acids	C00311	HMDB0000193
+HMDB0000195	Inosine	Inosine	Nucleosides	C00294	HMDB0000195
+HMDB0000197	Indoleacetic acid	Indoleacetic acid	Organic acids	C00954	HMDB0000197
+HMDB0000201	L-Acetylcarnitine(C2)	L-Acetylcarnitine(C2)	Carnitines or Acyl carnitines		HMDB0000201
+HMDB0000202	Methylmalonic acid	Methylmalonic acid	Organic acids	C02170	HMDB0000202
+HMDB0000209	Phenylacetic acid	Phenylacetic acid	Benzene and derivatives	C07086	HMDB0000209
+HMDB0000210	Pantothenic acid	Pantothenic acid	Organooxygen compounds	C00864	HMDB0000210
+HMDB0000211	myo-Inositol	myo-Inositol	Organooxygen	C00137	HMDB0000211
+HMDB0000222	Palmitoylcarnitine(C16)	Palmitoylcarnitine(C16)	Carnitines or Acyl carnitines	C02990	HMDB0000222
+HMDB0000223	Oxalacetic acid	Oxalacetic acid	Organic acids	C00036	HMDB0000223
+HMDB0000224	O-Phosphoethanolamine	O-Phosphoethanolamine	Organic acids	C00346	HMDB0000224
+HMDB0000225	Oxoadipic acid	Oxoadipic acid	Organic acids	C00322	HMDB0000225
+HMDB0000226	Orotic acid	Orotic acid	Organoheterocyclic	C00295	HMDB0000226
+HMDB0000230	N-Acetylneuraminic acid	N-Acetylneuraminic acid	Carbohydrates	C19910	HMDB0000230
+HMDB0000232	Quinolinic acid	Quinolinic acid	Organic acids	C03722	HMDB0000232
+HMDB0000237	Propionic acid	Propionic acid	Fatty acids	C00163	HMDB0000237
+HMDB0000243	Pyruvic acid	Pyruvic acid	Organic acids	C00022	HMDB0000243
+HMDB0000247	Sorbitol	Sorbitol	Carbohydrates	C00794	HMDB0000247
+HMDB0000263	Phosphoenolpyruvic acid(PEP)	Phosphoenolpyruvic acid(PEP)	Carbohydrates	C00074	HMDB0000263
+HMDB0000267	Pyroglutamic acid	Pyroglutamic acid	Amino acids and Peptides	C01879	HMDB0000267
+HMDB0000271	Sarcosine	Sarcosine	Amino acids and Peptides	C00213	HMDB0000271
+HMDB0000272	Phosphoserine	Phosphoserine	Amino acids and Peptides	C01005	HMDB0000272
+HMDB0000273	Thymidine	Thymidine	Nucleosides	C00214	HMDB0000273
+HMDB0000283	Ribose	Ribose	Carbohydrates	C00121	HMDB0000283
+HMDB0000288	Uridine 5'-monophosphate	Uridine 5'-monophosphate	Nucleosides	C00105	HMDB0000288
+HMDB0000289	Uric acid	Uric acid	Purines and derivatives	C00366	HMDB0000289
+HMDB0000291	Vanillymandelic Acid	Vanillymandelic Acid	Organic acids	C05584	HMDB0000291
+HMDB0000296	Uridine	Uridine	Nucleosides	C00299	HMDB0000296
+HMDB0000299	Xanthosine	Xanthosine	Nucleosides	C01762	HMDB0000299
+HMDB0000301	Urocanic acid	Urocanic acid	Organic acids	C00785	HMDB0000301
+HMDB0000303	Tryptamine	Tryptamine	Indoles and derivatives	C00398	HMDB0000303
+HMDB0000317	2-Hydroxy-3-methylpentanoic acid	2-Hydroxy-3-methylpentanoic acid	Fatty acyls[FA]		HMDB0000317
+HMDB0000321	2-hydroxyadipic acid	2-hydroxyadipic acid	Fatty acyls[FA]	C02360	HMDB0000321
+HMDB0000328	12-Ketodeoxycholic acid(12-keto-CDCA)	12-Ketodeoxycholic acid(12-keto-CDCA)	Bile acids		HMDB0000328
+HMDB0000345	3-Hydroxyadipic acid	3-Hydroxyadipic acid	Organic acids		HMDB0000345
+HMDB0000350	3-Hydroxysebacic acid	3-Hydroxysebacic acid	Organic acids		HMDB0000350
+HMDB0000375	3-(3-Hydroxyphenyl)propanoic acid	3-(3-Hydroxyphenyl)propanoic acid	Phenylpropanoic acids	C11457	HMDB0000375
+HMDB0000379	2-Methylcitric acid	2-Methylcitric acid	Organic acids		HMDB0000379
+HMDB0000413	3-Hydroxydodecanedioic acid	3-Hydroxydodecanedioic acid	Organic acids		HMDB0000413
+HMDB0000423	3,4-Dihydroxyhydrocinnamic acid	3,4-Dihydroxyhydrocinnamic acid	Phenylpropanoids and polyketides	C10447	HMDB0000423
+HMDB0000426	Citramalic acid	Citramalic acid	Fatty acids	C00815	HMDB0000426
+HMDB0000434	Homoveratric acid	Homoveratric acid	Benzenoids		HMDB0000434
+HMDB0000440	3-Hydroxyphenylacetic acid	3-Hydroxyphenylacetic acid	Benzenoids	C05593	HMDB0000440
+HMDB0000446	N-alpha-Acetyl-L-lysine	N-alpha-Acetyl-L-lysine	Amino acids and Peptides	C12989	HMDB0000446
+HMDB0000448	Adipic acid	Adipic acid	Fatty acids	C06104	HMDB0000448
+HMDB0000450	5-Hydroxylysine	5-Hydroxylysine	Amino acids and Peptides	C16741	HMDB0000450
+HMDB0000452	L-alpha-Aminobutyric acid	L-alpha-Aminobutyric acid	Organic acids	C02356	HMDB0000452
+HMDB0000472	5-Hydroxy-L-tryptophan	5-Hydroxy-L-tryptophan	Indoles and derivatives	C00643	HMDB0000472
+HMDB0000484	Vanillic acid	Vanillic acid	Benzenoids	C06672	HMDB0000484
+HMDB0000486	7-Hydroxyoctanoic acid	7-Hydroxyoctanoic acid	Organic acids		HMDB0000486
+HMDB0000491	3-Methyl-2-oxovaleric acid	3-Methyl-2-oxovaleric acid	Organic acids	C03465	HMDB0000491
+HMDB0000500	4-Hydroxybenzoic acid	4-Hydroxybenzoic acid	Benzenoids	C00156	HMDB0000500
+HMDB0000502	3-Oxocholic acid	3-Oxocholic acid	Bile acids, alcohols and derivatives		HMDB0000502
+HMDB0000508	Ribitol	Ribitol	Carbohydrates	C00474	HMDB0000508
+HMDB0000510	Aminoadipic acid	Aminoadipic acid	Organic acids	C00956	HMDB0000510
+HMDB0000512	N-Acetyl-L-phenylalanine	N-Acetyl-L-phenylalanine	Benzenoids	C03519	HMDB0000512
+HMDB0000517	L-Arginine(Arg)	L-Arginine(Arg)	Amino acids and Peptides	C00062	HMDB0000517
+HMDB0000522	3-Methylglutaconic acid	3-Methylglutaconic acid	Fatty acyls[FA]		HMDB0000522
+HMDB0000528	4,5-Dihydroorotic acid	4,5-Dihydroorotic acid	Amino acids, peptides, and alogues	C00337	HMDB0000528
+HMDB0000529	5Z-Dodecenoic acid	5Z-Dodecenoic acid	Fatty acids		HMDB0000529
+HMDB0000531	3-Hydroxyvaleric acid	3-Hydroxyvaleric acid	Fatty acyls[FA]		HMDB0000531
+HMDB0000532	Acetylglycine	Acetylglycine	Amino acids and Peptides		HMDB0000532
+HMDB0000539	Arabinonic acid	Arabinonic acid	Carbohydrates	C00878	HMDB0000539
+HMDB0000555	3-Methyladipic acid	3-Methyladipic acid	Fatty acids		HMDB0000555
+HMDB0000557	L-Alloisoleucine	L-Alloisoleucine	Amino acids and Peptides	C21096	HMDB0000557
+HMDB0000567	Cinnamic acid	Cinnamic acid	Phenylpropanoids and polyketides	C10438	HMDB0000567
+HMDB0000582	3,5-Diiodothyronine	3,5-Diiodothyronine	Amino acids, peptides, and alogues		HMDB0000582
+HMDB0000613	Erythronic acid	Erythronic acid	Carbohydrates	C21593	HMDB0000613
+HMDB0000621	Ribulose	Ribulose	Carbohydrates		HMDB0000621
+HMDB0000623	Dodecanedioic acid	Dodecanedioic acid	Fatty acids	C02678	HMDB0000623
+HMDB0000634	Citraconic acid	Citraconic acid	Fatty acids	C02226	HMDB0000634
+HMDB0000639	Galactaric acid	Galactaric acid	Carbohydrates	C00879	HMDB0000639
+HMDB0000645	Galactose 1-phosphate	Galactose 1-phosphate	Carbohydrates	C00446	HMDB0000645
+HMDB0000651	Decanoylcarnitine (C10)	Decanoylcarnitine (C10)	Carnitines or Acyl carnitines	C03299	HMDB0000651
+HMDB0000660	Fructose	Fructose	Carbohydrates	C02336	HMDB0000660
+HMDB0000661	Glutaric acid	Glutaric acid	Organic acids	C00489	HMDB0000661
+HMDB0000663	Glucaric acid	Glucaric acid	Carbohydrates	C00818	HMDB0000663
+HMDB0000665	Leucinic acid	Leucinic acid	Fatty acyls[FA]		HMDB0000665
+HMDB0000667	L-Thyronine	L-Thyronine	Amino acids and Peptides		HMDB0000667
+HMDB0000670	Homo-L-arginine	Homo-L-arginine	Amino acids and Peptides	C01924	HMDB0000670
+HMDB0000673	Linoleic acid	Linoleic acid	Fatty acyls[FA]	C01595	HMDB0000673
+HMDB0000678	Isovalerylglycine	Isovalerylglycine	Amino acids and Peptides		HMDB0000678
+HMDB0000686	Isoursodeoxycholic acid(Iso-UDCA)	Isoursodeoxycholic acid(Iso-UDCA)	Bile acids, alcohols and derivatives	C17662	HMDB0000686
+HMDB0000687	L-Leucine(Leu)	L-Leucine(Leu)	Amino acids and Peptides	C00123	HMDB0000687
+HMDB0000688	Isovalerylcarnitine(C5)	Isovalerylcarnitine(C5)	Carnitines or Acyl carnitines		HMDB0000688
+HMDB0000689	Isocaproic acid	Isocaproic acid	Fatty acids	C21399	HMDB0000689
+HMDB0000691	Malonic acid	Malonic acid	Organic acids	C00383	HMDB0000691
+HMDB0000694	L-2-Hydroxyglutaric acid	L-2-Hydroxyglutaric acid	Fatty acids	C03196	HMDB0000694
+HMDB0000695	Ketoleucine	Ketoleucine	Organic acids	C00233	HMDB0000695
+HMDB0000696	L-Methionine(Met)	L-Methionine(Met)	Amino acids and Peptides	C00073	HMDB0000696
+HMDB0000700	Hydroxypropionic acid	Hydroxypropionic acid	Organic acids	C01013	HMDB0000700
+HMDB0000701	Hexanoylglycine	Hexanoylglycine	Amino acids, peptides, and alogues		HMDB0000701
+HMDB0000703	Mandelic acid	Mandelic acid	Benzenoids	C01984	HMDB0000703
+HMDB0000705	Hexanylcarnitine(C6)	Hexanylcarnitine(C6)			HMDB0000705
+HMDB0000707	4-Hydroxyphenylpyruvic acid	4-Hydroxyphenylpyruvic acid	Benzenoids	C01179	HMDB0000707
+HMDB0000711	Hydroxyoctanoic acid	Hydroxyoctanoic acid	Fatty acids		HMDB0000711
+HMDB0000714	Hippuric acid	Hippuric acid	Benzenoids	C01586	HMDB0000714
+HMDB0000716	L-Pipecolic acid	L-Pipecolic acid	Amino acids and Peptides	C00408	HMDB0000716
+HMDB0000718	Isovaleric acid	Isovaleric acid	Fatty acyls[FA]	C08262	HMDB0000718
+HMDB0000720	Levulinic acid	Levulinic acid	Organic acids		HMDB0000720
+HMDB0000721	Glycylproline	Glycylproline	Amino acids and Peptides		HMDB0000721
+HMDB0000729	alpha-Hydroxyisobutyric acid	alpha-Hydroxyisobutyric acid	Organic acids	C21297	HMDB0000729
+HMDB0000733	Hyodeoxycholic acid(HDCA)	Hyodeoxycholic acid(HDCA)	Bile acids	C15517	HMDB0000733
+HMDB0000736	Isobutyryl-L-carnitine(C4)	Isobutyryl-L-carnitine(C4)	Fatty acyls[FA]		HMDB0000736
+HMDB0000740	Lactulose	Lactulose	Carbohydrates	C07064	HMDB0000740
+HMDB0000742	Homocysteine	Homocysteine	Amino acids and Peptides	C00155	HMDB0000742
+HMDB0000746	Hydroxyisocaproic acid	Hydroxyisocaproic acid	Fatty acids		HMDB0000746
+HMDB0000748	L-3-Phenyllactic acid	L-3-Phenyllactic acid	Benzenoids	C05607	HMDB0000748
+HMDB0000749	Mesaconic acid	Mesaconic acid	Fatty acyls[FA]	C01732	HMDB0000749
+HMDB0000752	Methylglutaric acid	Methylglutaric acid	Fatty acids		HMDB0000752
+HMDB0000754	3-Hydroxyisovaleric acid	3-Hydroxyisovaleric acid	Fatty acids	C20827	HMDB0000754
+HMDB0000755	Hydroxyphenyllactic acid	Hydroxyphenyllactic acid	Fatty acids	C03672	HMDB0000755
+HMDB0000759	Glycylleucine	Glycylleucine	Amino acids and Peptides	C02155	HMDB0000759
+HMDB0000761	Lithocholic acid(LCA)	Lithocholic acid(LCA)	Bile acids	C03990	HMDB0000761
+HMDB0000763	5-Hydroxyindoleacetic acid	5-Hydroxyindoleacetic acid	Indole and derivatives	C05635	HMDB0000763
+HMDB0000764	Hydrocinnamic acid	Hydrocinnamic acid	Phenylpropanoids and polyketides	C05629	HMDB0000764
+HMDB0000765	Mannitol	Mannitol	Carbohydrates	C00392	HMDB0000765
+HMDB0000766	N-Acetyl-L-alanine	N-Acetyl-L-alanine	Amino acids and Peptides		HMDB0000766
+HMDB0000783	Propionylglycine	Propionylglycine	Amino acids and Peptides		HMDB0000783
+HMDB0000784	Azelaic acid	Azelaic acid	Fatty acids	C08261	HMDB0000784
+HMDB0000791	Octanoylcarnitine(C8)	Octanoylcarnitine(C8)	Fatty acyls[FA]	C02838	HMDB0000791
+HMDB0000792	Sebacic acid	Sebacic acid	Fatty acids	C08277	HMDB0000792
+HMDB0000806	Myristic acid	Myristic acid	Fatty acids	C06424	HMDB0000806
+HMDB0000812	N-Acetyl-L-aspartic acid	N-Acetyl-L-aspartic acid	Amino acids and Peptides	C01042	HMDB0000812
+HMDB0000822	p-Hydroxymandelic acid	p-Hydroxymandelic acid	Benzenoids	C11527	HMDB0000822
+HMDB0000824	Propionylcarnitine(C3)	Propionylcarnitine(C3)	Carnitines or Acyl carnitines	C03017	HMDB0000824
+HMDB0000826	Pentadecanoic acid	Pentadecanoic acid	Fatty acids	C16537	HMDB0000826
+HMDB0000828	Ureidosuccinic acid	Ureidosuccinic acid	Organic acids	C00438	HMDB0000828
+HMDB0000840	Salicyluric acid	Salicyluric acid	Benzenoids	C07588	HMDB0000840
+HMDB0000848	Stearoylcarnitine(C18)	Stearoylcarnitine(C18)	Carnitines or Acyl carnitines		HMDB0000848
+HMDB0000857	Pimelic acid	Pimelic acid	Fatty acids	C02656	HMDB0000857
+HMDB0000858	Monomethyl glutaric acid	Monomethyl glutaric acid	Fatty acids		HMDB0000858
+HMDB0000866	N-Acetyl-L-tyrosine	N-Acetyl-L-tyrosine	Amino acids and Peptides	C01657	HMDB0000866
+HMDB0000870	Histamine	Histamine	Amino acids and Peptides	C00388	HMDB0000870
+HMDB0000875	Trigonelline	Trigonelline	Alkaloids and derivatives	C01004	HMDB0000875
+HMDB0000881	Xanthurenic acid	Xanthurenic acid	Quinone and hydroquinone lipids	C02470	HMDB0000881
+HMDB0000892	Valeric acid	Valeric acid	Fatty acids	C00803	HMDB0000892
+HMDB0000893	Suberic acid	Suberic acid	Fatty acids	C08278	HMDB0000893
+HMDB0000904	Citrulline(Cit)	Citrulline(Cit)	Amino acids and Peptides	C00327	HMDB0000904
+HMDB0000910	Tridecanoic acid	Tridecanoic acid	Fatty acids	C17076	HMDB0000910
+HMDB0000925	TMAO	TMAO	Organic acids	C01104	HMDB0000925
+HMDB0000929	L-Tryptophan(Trp)	L-Tryptophan(Trp)	Amino acids and Peptides	C00078	HMDB0000929
+HMDB0000932	Tauro-beta-muricholic acid(T-beta-MCA)	Tauro-beta-muricholic acid(T-beta-MCA)	Bile acids, alcohols and derivatives		HMDB0000932
+HMDB0000933	Traumatic acid	Traumatic acid	Fatty acids	C16308	HMDB0000933
+HMDB0000939	S-Adenosylhomocysteine	S-Adenosylhomocysteine	Nucleosides	C00021	HMDB0000939
+HMDB0000946	Ursodeoxycholic acid(UDCA)	Ursodeoxycholic acid(UDCA)	Bile acids	C07880	HMDB0000946
+HMDB0000951	Taurochenodeoxycholic acid(TCDCA)	Taurochenodeoxycholic acid(TCDCA)	Bile acids	C05465	HMDB0000951
+HMDB0000954	Ferulic acid	Ferulic acid	Phenylpropanoids and polyketides	C01494	HMDB0000954
+HMDB0000956	Tartaric acid	Tartaric acid	Carbohydrates	C00898	HMDB0000956
+HMDB0000959	Tiglylglycine	Tiglylglycine	Amino acids, peptides, and alogues		HMDB0000959
+HMDB0001015	N-Formylmethionine	N-Formylmethionine	Amino acids and Peptides	C03145	HMDB0001015
+HMDB0001043	Arachidonic acid	Arachidonic acid	Fatty acids	C00219	HMDB0001043
+HMDB0001051	Glyceraldehyde	Glyceraldehyde	Carbohydrates	C02154	HMDB0001051
+HMDB0001138	N-Acetyl-L-glutamic acid	N-Acetyl-L-glutamic acid	Amino acids, peptides, and alogues	C00624	HMDB0001138
+HMDB0001149	5-Aminolevulinic acid	5-Aminolevulinic acid	Amino acids and Peptides	C00430	HMDB0001149
+HMDB0001151	Allose	Allose	Carbohydrates	C01487	HMDB0001151
+HMDB0001256	Spermine	Spermine	Organonitrogen	C00750	HMDB0001256
+HMDB0001262	Maltotriose	Maltotriose	Carbohydrates	C01935	HMDB0001262
+HMDB0001266	L-Sorbose	L-Sorbose	Carbohydrates	C08356	HMDB0001266
+HMDB0001358	Retinal	Retinal	Retinoids	C00376	HMDB0001358
+HMDB0001370	Diaminopimelic acid	Diaminopimelic acid	Amino acids, peptides, and alogues	C00666	HMDB0001370
+HMDB0001388	alpha-Linolenic acid	alpha-Linolenic acid	Fatty acids	C06427	HMDB0001388
+HMDB0001397	Guanosine monophosphate	Guanosine monophosphate	Nucleosides	C00144	HMDB0001397
+HMDB0001401	Glucose 6-phosphate	Glucose 6-phosphate	Carbohydrates	C00092	HMDB0001401
+HMDB0001488	Nicotinic acid	Nicotinic acid	Pyridines and derivatives	C00253	HMDB0001488
+HMDB0001491	Pyridoxal 5'-phosphate	Pyridoxal 5'-phosphate	Benzenoids	C00018	HMDB0001491
+HMDB0001514	Glucosamine	Glucosamine	Benzenoids	C00329	HMDB0001514
+HMDB0001538	3-Pyridylacetic acid	3-Pyridylacetic acid	Pyridines and derivatives		HMDB0001538
+HMDB0001545	Pyridoxal	Pyridoxal	Benzenoids	C00250	HMDB0001545
+HMDB0001548	Ribose 5-phosphate	Ribose 5-phosphate	Carbohydrates	C03736	HMDB0001548
+HMDB0001562	Folinic acid	Folinic acid	Organoheterocyclic	C03479	HMDB0001562
+HMDB0001587	Phenylglyoxylic acid	Phenylglyoxylic acid	Benzenoids	C02137	HMDB0001587
+HMDB0001624	2-Hydroxycaproic acid	2-Hydroxycaproic acid	Fatty acids		HMDB0001624
+HMDB0001645	L-Norleucine	L-Norleucine	Amino acids and Peptides	C01933	HMDB0001645
+HMDB0001830	Progesterone	Progesterone	Steroids and steroid derivatives	C00410	HMDB0001830
+HMDB0001844	Methylsuccinic acid	Methylsuccinic acid	Fatty acids		HMDB0001844
+HMDB0001852	Retinoic acid	Retinoic acid	Phenylpropanoids and polyketides	C00777	HMDB0001852
+HMDB0001866	3,4-Dihydroxymandelic acid	3,4-Dihydroxymandelic acid	Benzenoids	C05580	HMDB0001866
+HMDB0001867	4-Aminohippuric acid	4-Aminohippuric acid	Benzenoids		HMDB0001867
+HMDB0001873	Isobutyric acid	Isobutyric acid	Fatty acids	C02632	HMDB0001873
+HMDB0001885	3-Chlorotyrosine	3-Chlorotyrosine	Amino acids and Peptides		HMDB0001885
+HMDB0001890	Acetylcysteine	Acetylcysteine	Amino acids and Peptides	C06809	HMDB0001890
+HMDB0001892	Menadione(Vitamin K3)	Menadione(Vitamin K3)	Benzenoids	C05377	HMDB0001892
+HMDB0001901	Aminocaproic acid	Aminocaproic acid	Fatty acids	C02378	HMDB0001901
+HMDB0001906	2-Aminoisobutyric acid	2-Aminoisobutyric acid	Amino acids and Peptides	C03665	HMDB0001906
+HMDB0001919	Famotidine	Famotidine	Organoheterocyclic		HMDB0001919
+HMDB0001928	Hydrochlorothiazide	Hydrochlorothiazide	Organoheterocyclic	C07041	HMDB0001928
+HMDB0001939	Medroxyprogesterone	Medroxyprogesterone	Steroids and steroid derivatives	C07119	HMDB0001939
+HMDB0001954	3-Hydroxyoctanoic acid	3-Hydroxyoctanoic acid	Organic acids		HMDB0001954
+HMDB0001964	Caffeic acid	Caffeic acid	Phenylpropanoids and polyketides	C01197	HMDB0001964
+HMDB0001972	3-Aminosalicylic acid	3-Aminosalicylic acid	Benzenoids		HMDB0001972
+HMDB0001987	2-Hydroxy-2-methylbutyric acid	2-Hydroxy-2-methylbutyric acid	Amino acids and Peptides		HMDB0001987
+HMDB0001999	Eicosapentaenoic acid EPA	Eicosapentaenoic acid EPA	Fatty acids	C06428	HMDB0001999
+HMDB0002000	Myristoleic acid	Myristoleic acid	Fatty acids	C08322	HMDB0002000
+HMDB0002006	2,3-Diaminopropionic acid	2,3-Diaminopropionic acid	Amino acids and Peptides	C03401	HMDB0002006
+HMDB0002013	Butyrylcarnitine(C4)	Butyrylcarnitine(C4)	Carnitines or Acyl carnitines	C02862	HMDB0002013
+HMDB0002035	4-Hydroxycinnamic acid	4-Hydroxycinnamic acid	Phenylpropanoids and polyketides	C00811	HMDB0002035
+HMDB0002063	Heptacosanoic acid	Heptacosanoic acid	Fatty acids		HMDB0002063
+HMDB0002068	Erucic acid	Erucic acid	Fatty acids	C08316	HMDB0002068
+HMDB0002074	2,2-Dimethylsuccinic acid	2,2-Dimethylsuccinic acid	Fatty acids		HMDB0002074
+HMDB0002085	Syringic acid	Syringic acid	Benzenoids	C10833	HMDB0002085
+HMDB0002092	Itaconic acid	Itaconic acid	Organic acids	C00490	HMDB0002092
+HMDB0002095	Malonylcarnitine(C3DC)	Malonylcarnitine(C3DC)	Carnitines or Acyl carnitines		HMDB0002095
+HMDB0002096	3-Indolebutyric acid	3-Indolebutyric acid	Indoles and derivatives	C11284	HMDB0002096
+HMDB0002107	Phthalic acid	Phthalic acid	Benzenoids	C01606	HMDB0002107
+HMDB0002108	Methylcysteine	Methylcysteine	Amino acids and Peptides	C22040	HMDB0002108
+HMDB0002127	3-Mercaptolactic acid	3-Mercaptolactic acid	Carbohydrates	C05823	HMDB0002127
+HMDB0002176	Ethylmethylacetic acid	Ethylmethylacetic acid	Fatty acids	C18319	HMDB0002176
+HMDB0002183	Docosahexaenoic Acid	Docosahexaenoic acid	Fatty acids	C06429	HMDB0002183
+HMDB0002186	Hexadecenoic Acid	Hexadecenoic Acid	Fatty acids		HMDB0002186
+HMDB0002199	Desaminotyrosine	Desaminotyrosine	Phenylpropanoids and polyketides	C01744	HMDB0002199
+HMDB0002226	Adrenic acid	Adrenic acid	Fatty acids	C16527	HMDB0002226
+HMDB0002250	Dodecanoylcarnitine(C12)	Dodecanoylcarnitine(C12)	Carnitines or Acyl carnitines		HMDB0002250
+HMDB0002271	Imidazolepropionic acid	Imidazolepropionic acid	Imidazoles	C20522	HMDB0002271
+HMDB0002285	2-Indolecarboxylic acid	2-Indolecarboxylic acid	Indoles and derivatives		HMDB0002285
+HMDB0002302	Indole-3-propionic acid	Indole-3-propionic acid	Indoles and derivatives		HMDB0002302
+HMDB0002329	Oxalic acid	Oxalic acid	Organic acids	C00209	HMDB0002329
+HMDB0002340	2-Methylbenzoic acid	2-Methylbenzoic acid	Benzenoids	C07215	HMDB0002340
+HMDB0002362	2,4-Diaminobutyric acid	2,4-Diaminobutyric acid	Amino acids and Peptides		HMDB0002362
+HMDB0002366	Tiglylcarnitine(C5:1)	Tiglylcarnitine(C5:1)	Fatty acyls[FA]		HMDB0002366
+HMDB0002393	N-Methyl-D-aspartic acid	N-Methyl-D-aspartic acid	Amino acids and Peptides	C12269	HMDB0002393
+HMDB0002428	Terephthalic acid	Terephthalic acid	Benzene and derivatives	C06337	HMDB0002428
+HMDB0002441	3,3-Dimethylglutaric acid	3,3-Dimethylglutaric acid	Fatty acids		HMDB0002441
+HMDB0002511	3,4,5-Trimethoxycinnamic acid	3,4,5-Trimethoxycinnamic acid	Phenylpropanoids and polyketides		HMDB0002511
+HMDB0002643	3-(3-Hydroxyphenyl)-3-hydroxypropanoic acid	3-(3-Hydroxyphenyl)-3-hydroxypropanoic acid	Phenylpropanoids and polyketides		HMDB0002643
+HMDB0002658	6-Hydroxynicotinic acid	6-Hydroxynicotinic acid	Pyridine and derivatives	C01020	HMDB0002658
+HMDB0002670	Naringenin	Naringenin	Phenylpropanoids and polyketides	C00509	HMDB0002670
+HMDB0002757	Cysteic acid	Cysteic acid	Amino acids and Peptides	C00506	HMDB0002757
+HMDB0002780	Catechin	Catechin	Phenylpropanoids and polyketides	C06562	HMDB0002780
+HMDB0002802	Cortisone	Cortisone	Steroids and steroid derivatives	C00762	HMDB0002802
+HMDB0002820	Methylimidazoleacetic acid	Methylimidazoleacetic acid	Imidazoles	C05828	HMDB0002820
+HMDB0002931	N-Acetylserine	N-Acetylserine	Amino acids and Peptides		HMDB0002931
+HMDB0003011	O-Acetylserine	O-Acetylserine	Amino acids and Peptides	C00979	HMDB0003011
+HMDB0003070	Shikimic acid	Shikimic acid	Organooxygen	C00493	HMDB0003070
+HMDB0003072	Quinic acid	Quinic acid	Organooxygen	C00296	HMDB0003072
+HMDB0003073	Gamma-Linolenic acid	Gamma-Linolenic acid	Fatty acids	C06426	HMDB0003073
+HMDB0003152	N-Methylnicotinamide	N-Methylnicotinamide	Pyridines and derivatives		HMDB0003152
+HMDB0003164	Chlorogenic acid	Chlorogenic acid	Organooxygen	C00852	HMDB0003164
+HMDB0003320	Indole-3-carboxylic acid	Indole-3-carboxylic acid	Indoles and derivatives	C19837	HMDB0003320
+HMDB0003331	1-Methyladenosine	1-Methyladenosine	Nucleosides	C02494	HMDB0003331
+HMDB0003355	5-Aminopentanoic acid	5-Aminopentanoic acid	Amino acids and Peptides	C00431	HMDB0003355
+HMDB0003357	N2-Acetylornithine	N2-Acetylornithine	Amino acids and Peptides	C00437	HMDB0003357
+HMDB0003418	Tagatose	Tagatose	Carbohydrates	C00795	HMDB0003418
+HMDB0003466	L-Gulonolactone	L-Gulonolactone	Organoheterocyclic	C01040	HMDB0003466
+HMDB0003474	3,5-Diiodo-L-tyrosine	3,5-Diiodo-L-tyrosine	Amino acids, peptides, and alogues	C01060	HMDB0003474
+HMDB0003584	Taurocyamine	Taurocyamine	Organic acids	C01959	HMDB0003584
+HMDB0004041	L-Allothreonine	L-Allothreonine	Amino acids and Peptides	C12317	HMDB0004041
+HMDB0004096	5-Methoxyindoleacetate	5-Methoxyindoleacetate	Indoles and derivatives	C05660	HMDB0004096
+HMDB0004230	Pyrrole-2-carboxylic acid	Pyrrole-2-carboxylic acid	Organoheterocyclic	C05942	HMDB0004230
+HMDB0005065	Oleoylcarnitine	Oleoylcarnitine	Carnitines or Acyl carnitines		HMDB0005065
+HMDB0005066	Tetradecanoylcarnitine	Tetradecanoylcarnitine	Carnitines or Acyl carnitines		HMDB0005066
+HMDB0005807	Gallic acid	Gallic acid	Benzenoids	C01424	HMDB0005807
+HMDB0006028	N-Acetylasparagine	N-Acetylasparagine	Amino acids, peptides, and alogues		HMDB0006028
+HMDB0006029	N-Acetylglutamine	N-Acetylglutamine	Amino acids and Peptides		HMDB0006029
+HMDB0006049	O-Phosphotyrosine	O-Phosphotyrosine	Amino acids, peptides, and alogues	C06501	HMDB0006049
+HMDB0006116	3-Hydroxyhippuric acid	3-Hydroxyhippuric acid	Benzenoids		HMDB0006116
+HMDB0006270	Linoelaidic acid	Linoelaidic acid	Fatty acids		HMDB0006270
+HMDB0006331	Muconic acid	Muconic acid	Fatty acids	C02480	HMDB0006331
+HMDB0006344	Phenylacetylglutamine	Phenylacetylglutamine	Amino acids and Peptides	C04148	HMDB0006344
+HMDB0006469	Linoleyl carnitine(C18:2)	Linoleyl carnitine(C18:2)	Carnitines or Acyl carnitines		HMDB0006469
+HMDB0006899	Alanylglycine	Alanylglycine	Amino acids, peptides, and alogues		HMDB0006899
+HMDB0010720	But-2-enoic acid	But-2-enoic acid	Fatty acids	C01771	HMDB0010720
+HMDB0011718	4-Hydroxybenzaldehyde	4-Hydroxybenzaldehyde	Benzenoids	C00633	HMDB0011718
+HMDB0011727	Bicine	Bicine	Organic acids		HMDB0011727
+HMDB0011733	Glycyl-glycine	Glycyl-glycine	Amino acids and Peptides	C02037	HMDB0011733
+HMDB0011743	2-Phenylpropionate	2-Phenylpropionate	Phenylpropanoids and polyketides		HMDB0011743
+HMDB0011745	N-Acetyl-L-methionine	N-Acetyl-L-methionine	Amino acids and Peptides	C02712	HMDB0011745
+HMDB0011753	Iminodiacetic acid	Iminodiacetic acid	Amino acids, peptides, and alogues	C19911	HMDB0011753
+HMDB0011756	N-Acetylleucine	N-Acetylleucine	Amino acids and Peptides	C02710	HMDB0011756
+HMDB0012328	Palmitelaidic acid	Palmitelaidic acid	Fatty acids		HMDB0012328
+HMDB0012881	Acetylcarnosine	Acetylcarnosine	Organic acids		HMDB0012881
+HMDB0013127	3-Hydroxybutyrylcarnitine(C4-OH)	3-Hydroxybutyrylcarnitine(C4-OH)	Fatty acyls[FA]		HMDB0013127
+HMDB0013128	Valerylcarnitine	Valerylcarnitine	Fatty acyls[FA]		HMDB0013128
+HMDB0013130	Glutarylcarnitine(C5DC)	Glutarylcarnitine(C5DC)	Carnitines or Acyl carnitines		HMDB0013130
+HMDB0013133	Methylmalonylcarnitine(C4DC)	Methylmalonylcarnitine(C4DC)	Fatty acyls[FA]		HMDB0013133
+HMDB0013292	p-Methylhippuric acid	p-Methylhippuric acid	Benzenoids		HMDB0013292
+HMDB0013678	4-Hydroxyhippuric acid	4-Hydroxyhippuric acid	Benzenoids		HMDB0013678
+HMDB0013713	N-acetyltryptophan	N-acetyltryptophan	Amino acids and Peptides		HMDB0013713
+HMDB0014312	Lipoic acid	Lipoic acid	Organoheterocyclic		HMDB0014312
+HMDB0014447	Tranexamic Acid	Tranexamic Acid	Amino acids and Peptides	C12535	HMDB0014447
+HMDB0015381	Gliquidone	Gliquidone	Organoheterocyclic		HMDB0015381
+HMDB0028685	Alanylglutamine	Alanylglutamine	Amino acids and Peptides		HMDB0028685
+HMDB0028694	Alanylphenylalanine	Alanylphenylalanine	Amino acids and Peptides		HMDB0028694
+HMDB0028854	Glycylvaline	Glycylvaline	Amino acids and Peptides		HMDB0028854
+HMDB0028929	Leucyl-Glycine	Leucyl-Glycine	Amino acids and Peptides		HMDB0028929
+HMDB0029273	2,6-Dimethoxybenzoic acid	2,6-Dimethoxybenzoic acid	Benzenoids		HMDB0029273
+HMDB0029415	S-Carboxymethyl-L-cysteine	S-Carboxymethyl-L-cysteine	Amino acids and Peptides		HMDB0029415
+HMDB0029432	(S)C(S)S-S-Methylcysteine sulfoxide	(S)C(S)S-S-Methylcysteine sulfoxide	Amino acids and Peptides		HMDB0029432
+HMDB0029865	Umbelliferone	Umbelliferone	Phenylpropanoids and polyketides	C09315	HMDB0029865
+HMDB0029942	Arabinose	Arabinose	Carbohydrates		HMDB0029942
+HMDB0031125	Glycerol trihexanoate	Glycerol trihexanoate	Glycerolipids		HMDB0031125
+HMDB0031158	2-Methyl-4-pentenoic acid	2-Methyl-4-pentenoic acid	Fatty acids		HMDB0031158
+HMDB0031193	1,2,3-Propanetricarboxylic acid	1,2,3-Propanetricarboxylic acid	Organic acids	C19806	HMDB0031193
+HMDB0031230	2-Ethylhexanoic acid	2-Ethylhexanoic acid	Fatty acids		HMDB0031230
+HMDB0031342	Cyclohexanecarboxylic Acid	Cyclohexanecarboxylic Acid	Organic acids	C09822	HMDB0031342
+HMDB0031654	3-Aminobutanoic acid	3-Aminobutanoic acid	Amino acids, peptides, and alogues		HMDB0031654
+HMDB0032248	11-Dodecenoic acid	11-Dodecenoic acid	Fatty acids		HMDB0032248
+HMDB0032616	Sinapic acid	Sinapic acid	Phenylpropanoids and polyketides	C00482	HMDB0032616
+HMDB0033161	2,6-Pyridinedicarboxylic acid	2,6-Pyridinedicarboxylic acid	Pyridines and derivatives		HMDB0033161
+HMDB0033375	Octyl gallate	Octyl gallate	Benzenoids		HMDB0033375
+HMDB0033585	Acesulfame	Acesulfame	Organic acids		HMDB0033585
+HMDB0033724	Undecylenic acid	Undecylenic acid	Fatty acids	C13910	HMDB0033724
+HMDB0033835	Propyl gallate	Propyl gallate	Benzenoids	C11155	HMDB0033835
+HMDB0033837	Dimethyl succinate	Dimethyl succinate	Fatty acids		HMDB0033837
+HMDB0034297	Ricinoleic acid	Ricinoleic acid	Fatty acids	C08365	HMDB0034297
+HMDB0034323	S-Allylcysteine	S-Allylcysteine	Amino acids and Peptides	C16759	HMDB0034323
+HMDB0034436	Rotenone	Rotenone	Phenylpropanoids and polyketides	C07593	HMDB0034436
+HMDB0035030	Amygdalin	Amygdalin	Carbohydrates	C08325	HMDB0035030
+HMDB0035514	Oxindole-3-acetic acid	Oxindole-3-acetic acid	Indole and derivatives	C22202	HMDB0035514
+HMDB0036136	4-Ethyloctanoic acid	4-Ethyloctanoic acid	Fatty acyls[FA]		HMDB0036136
+HMDB0036458	1-Aminocyclopropanecarboxylic acid	1-Aminocyclopropanecarboxylic acid	Amino acids and Peptides	C01234	HMDB0036458
+HMDB0036626	3,4-Dihydro-2H-1-benzopyran-2-one	3,4-Dihydro-2H-1-benzopyran-2-one	Phenylpropanoids and polyketides	C02274	HMDB0036626
+HMDB0037115	2-Hydroxy-4-(methylthio)butanoic acid	2-Hydroxy-4-(methylthio)butanoic acid	Fatty acids		HMDB0037115
+HMDB0038720	Dodecyl gallate	Dodecyl gallate	Benzenoids		HMDB0038720
+HMDB0041220	Dibutyl decanedioate	Dibutyl decanedioate	Fatty acids		HMDB0041220
+HMDB0041481	4-(3,4-Methylenedioxyphenyl)-2-butanone	4-(3,4-Methylenedioxyphenyl)-2-butanone	Organoheterocyclic		HMDB0041481
+HMDB0041683	4-Hydroxyphenyl-2-propionic acid	4-Hydroxyphenyl-2-propionic acid	Phenylpropanoids and polyketides	C03080	HMDB0041683
+HMDB0042032	Thiodiacetic acid	Thiodiacetic acid	Organic acids	C14872	HMDB0042032
+HMDB0059720	Meta-Tyrosine	Meta-Tyrosine	Amino acids and Peptides	C20807	HMDB0059720
+HMDB0059969	3-Methoxyphenylacetic acid	3-Methoxyphenylacetic acid	Benzenoids		HMDB0059969
+HMDB0060038	10Z-Heptadecenoic acid	10Z-Heptadecenoic acid	Fatty acids		HMDB0060038
+HMDB0061189	3-Hydroxyisovalerylcarnitine(C5-OH)	3-Hydroxyisovalerylcarnitine(C5-OH)	Fatty acyls[FA]		HMDB0061189
+HMDB0061677	O-Adipoylcarnitine(C6DC)	O-Adipoylcarnitine(C6DC)	Carnitines or Acyl carnitines		HMDB0061677
+HMDB0062248	Tetradecenoic acid	Tetradecenoic acid	Fatty acids		HMDB0062248
+HMDB0062477	2-Deoxyglucose	2-Deoxyglucose	Carbohydrates	C00586	HMDB0062477
+HMDB0062795	N-carbamoylglutamic Acid	N-carbamoylglutamic Acid	Amino acids and Peptides		HMDB0062795
+HMDB0094701	N-Acetylproline	N-Acetylproline	Amino acids and Peptides		HMDB0094701
+HMDB0242143	3-Indoleglyoxylic acid	3-Indoleglyoxylic acid	Indoles and derivatives		HMDB0242143
+HMDB0244268	10-Heptadecenoic acid	10-Heptadecenoic acid	Fatty acids		HMDB0244268
+HMDB0244272	10-Hydroxydecanoic acid	10-Hydroxydecanoic acid	Organic acids		HMDB0244272
+HMDB0247918	Acetovanillone	Acetovanillone	Organooxygen		HMDB0247918
+HMDB0253945	Lactobionic acid	Lactobionic acid	Fatty acids		HMDB0253945
+HMDB0341150	Galactosamine	Galactosamine			HMDB0341150

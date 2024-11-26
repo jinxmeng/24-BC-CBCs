@@ -1,0 +1,597 @@
+cpd_id	cpd_name
+cpd_001	1-methylguanine
+cpd_002	1-methylguanosine
+cpd_003	1-methylhistamine
+cpd_004	1-methylnicotinamide
+cpd_005	21-deoxycortisol
+cpd_006	2-aminoheptanoic acid
+cpd_007	2-deoxyadenosine
+cpd_008	2-deoxycytidine
+cpd_009	2^-O-methyladenosine
+cpd_010	3-methylhistidine
+cpd_011	3-methylxanthine
+cpd_012	3^-O-methyladenosine
+cpd_013	4-aminophenol
+cpd_014	4-guanidinobutanoic acid
+cpd_015	4-hydroxy-3-methylacetophenone
+cpd_016	5-acetylamino-6-amino-3-methyluracil
+cpd_017	5-aminolevulinic acid
+cpd_018	5-hydroxytryptophan
+cpd_019	7-methylguanine
+cpd_020	7-methylxanthine
+cpd_021	8-hydroxy-deoxyguanosine
+cpd_022	acetaminophen
+cpd_023	acetylcholine
+cpd_024	acetyl-galactosamine
+cpd_025	adenosine
+cpd_026	ADMA/SDMA
+cpd_027	agmatine
+cpd_028	alanine
+cpd_029	alanylalanine
+cpd_030	alloisoleucine
+cpd_031	alpha-glycerophosphocholine
+cpd_032	alpha-hydroxymetoprolol
+cpd_033	aminoisobutyric acid/GABA
+cpd_034	anserine
+cpd_035	arginine
+cpd_036	aspartate
+cpd_037	atenolol
+cpd_038	beta-alanine
+cpd_039	beta-guanidinopropionic acid
+cpd_040	betaine
+cpd_041	bilirubin
+cpd_042	biliverdin
+cpd_043	biotin
+cpd_044	butyrobetaine
+cpd_045	C10:2 carnitine
+cpd_046	C10 carnitine
+cpd_047	C12:1 carnitine
+cpd_048	C12 carnitine
+cpd_049	C14:0 LPC
+cpd_050	C14:0 SM
+cpd_051	C14:1 carnitine
+cpd_052	C14:2 carnitine
+cpd_053	C14 carnitine
+cpd_054	C16:0 LPC
+cpd_055	C16:0 LPE
+cpd_056	C16:0 SM
+cpd_057	C16:1 LPC
+cpd_058	C16:1 LPC plasmalogen
+cpd_059	C16 carnitine
+cpd_060	C16-OH carnitine
+cpd_061	C18:0 LPC
+cpd_062	C18:0 LPE-A
+cpd_063	C18:0 LPE-B
+cpd_064	C18:1 carnitine
+cpd_065	C18:1 LPC
+cpd_066	C18:1 LPC plasmalogen
+cpd_067	C18:1-OH carnitine
+cpd_068	C18:2 carnitine
+cpd_069	C18:2 LPC
+cpd_070	C18:3 LPC
+cpd_071	C18 carnitine
+cpd_072	C20:1 LPC
+cpd_073	C20:4 carnitine
+cpd_074	C20 carnitine
+cpd_075	C22:6 LPE
+cpd_076	C2 carnitine
+cpd_077	C36:2 PC
+cpd_078	C3 carnitine
+cpd_079	C3-DC-CH3 carnitine
+cpd_080	C4 carnitine
+cpd_081	C5 carnitine
+cpd_082	C8 carnitine
+cpd_083	C9 carnitine
+cpd_084	cadaverine
+cpd_085	caffeine
+cpd_086	carnitine
+cpd_087	choline
+cpd_088	citrulline
+cpd_089	cortisol
+cpd_090	cotinine
+cpd_091	creatine
+cpd_092	creatinine
+cpd_093	cytidine
+cpd_094	cytosine
+cpd_095	diacetylspermine
+cpd_096	dimethylglycine
+cpd_097	ectoine
+cpd_098	gabapentin
+cpd_099	glutamate
+cpd_100	glutamine
+cpd_101	glycine
+cpd_102	guanidoacetic acid
+cpd_103	hippurate
+cpd_104	histamine
+cpd_105	histidine
+cpd_106	histidinol
+cpd_107	homoarginine
+cpd_108	homocitrulline
+cpd_109	hydroxycotinine
+cpd_110	hydroxyproline
+cpd_111	hypoxanthine
+cpd_112	imidazoleacetic acid
+cpd_113	imidazole propionate
+cpd_114	inosine
+cpd_115	isoleucine
+cpd_116	kynurenic acid
+cpd_117	leucine
+cpd_118	linoleoyl ethanolamide
+cpd_119	lysine
+cpd_120	metformin
+cpd_121	methionine
+cpd_122	methionine sulfoxide
+cpd_123	methylimidazole acetic acid
+cpd_124	metronidazole
+cpd_125	N1-acetylspermidine
+cpd_126	N1-acetylspermine
+cpd_127	N1-methyl-2-pyridone-5-carboxamide
+cpd_128	N1_N12-diacetylspermine
+cpd_129	N2_N2-dimethylguanosine
+cpd_130	N6-acetyllysine
+cpd_131	N6_N6-dimethyllysine
+cpd_132	N6_N6_N6-trimethyllysine
+cpd_133	N-acetyalanine
+cpd_134	N-acetylaspartic acid
+cpd_135	N-acetylglutamine
+cpd_136	N-acetylhistamine
+cpd_137	N-acetylhistidine
+cpd_138	N-acetylornithine
+cpd_139	N-acetylputrescine
+cpd_140	N-alpha-acetylarginine
+cpd_141	N-carbamoyl-beta-alanine
+cpd_142	niacinamide
+cpd_143	nicotinuric acid
+cpd_144	N-methylproline
+cpd_145	NMMA
+cpd_146	ornithine
+cpd_147	pantothenate
+cpd_148	phenylalanine
+cpd_149	phytosphingosine
+cpd_150	pipecolic acid
+cpd_151	piperine
+cpd_152	proline
+cpd_153	proline betaine
+cpd_154	pterin
+cpd_155	putrescine
+cpd_156	pyridoxine
+cpd_157	quinine
+cpd_158	S-adenosylmethionine
+cpd_159	serine
+cpd_160	serotonin
+cpd_161	S-methylcysteine-S-oxide
+cpd_162	spermidine
+cpd_163	sphinganine
+cpd_164	sphingosine-isomer1
+cpd_165	sphingosine-isomer2
+cpd_166	sphingosine-isomer3
+cpd_167	sulfapyridine
+cpd_168	taurine
+cpd_169	threosphingosine
+cpd_170	trigonelline
+cpd_171	trimethylamine-N-oxide
+cpd_172	trimethylbenzene
+cpd_173	tryptophan
+cpd_174	tyrosine
+cpd_175	urobilin
+cpd_176	urobilin - targeted
+cpd_177	valine
+cpd_178	1-3-7-trimethylurate
+cpd_179	2-aminoadipate
+cpd_180	2-aminobutyrate
+cpd_181	2-hydroxy-3-methylbutyrate
+cpd_182	2-hydroxy-3-methylpentanoate
+cpd_183	2-hydroxyglutarate
+cpd_184	3-hydroxymethylglutarate
+cpd_185	3-methyladipate/pimelate
+cpd_186	3-methylglutaconate
+cpd_187	4-hydroxybenzaldehyde
+cpd_188	4-hydroxybenzeneacetonitrile
+cpd_189	4-methylcatechol
+cpd_190	4-nitrophenol
+cpd_191	4-pyridoxate
+cpd_192	5-acetylamino-6-amino-3-methyluracil
+cpd_193	5-dodecenoate
+cpd_194	acesulfame
+cpd_195	acetylalanine
+cpd_196	adenine
+cpd_197	adipate
+cpd_198	alanine
+cpd_199	alpha-glycerophosphate
+cpd_200	alpha-ketoglutarate
+cpd_201	alpha-ketoisovalerate
+cpd_202	arginine
+cpd_203	ascorbate
+cpd_204	asparagine
+cpd_205	aspartate
+cpd_206	azelate
+cpd_207	butyrate
+cpd_208	caproate
+cpd_209	caprylate
+cpd_210	cholate
+cpd_211	cinnamoylglycine
+cpd_212	citrate
+cpd_213	citrulline
+cpd_214	corticosterone
+cpd_215	cystine
+cpd_216	dCMP
+cpd_217	diaminopimelate
+cpd_218	dihydroorotate
+cpd_219	docosapentaenoate
+cpd_220	dTMP
+cpd_221	eicosapentaenoate
+cpd_222	epiandrosterone
+cpd_223	erythronate
+cpd_224	ethyl glucuronide
+cpd_225	fructose/glucose/galactose
+cpd_226	fucose
+cpd_227	fumarate/maleate
+cpd_228	gabapentin
+cpd_229	gemfibrozil
+cpd_230	gentisate
+cpd_231	glutamate
+cpd_232	glycerate
+cpd_233	glycocholate
+cpd_234	guanine
+cpd_235	guanosine
+cpd_236	heptadecanoate
+cpd_237	homovanillate
+cpd_238	hydrochlorothiazide
+cpd_239	hydrocinnamate
+cpd_240	hypoxanthine
+cpd_241	imidazolelactate
+cpd_242	indole-3-propionate
+cpd_243	indoxyl sulfate
+cpd_244	inosine
+cpd_245	lactate
+cpd_246	lactose
+cpd_247	leucine
+cpd_248	linoleoyl ethanolamide
+cpd_249	lithocholate
+cpd_250	malate
+cpd_251	malonate
+cpd_252	methionine
+cpd_253	N6-acetyllysine
+cpd_254	N-acetylglutamate
+cpd_255	nicotinate
+cpd_256	norepinephrine
+cpd_257	orotate
+cpd_258	oxalate
+cpd_259	pantothenate
+cpd_260	pentose monophosphate
+cpd_261	phenylacetate
+cpd_262	phenylacetylglutamine
+cpd_263	phenylalanine
+cpd_264	proline
+cpd_265	propionate
+cpd_266	pseudouridine
+cpd_267	pyrocatechol
+cpd_268	riboflavin
+cpd_269	ribothymidine
+cpd_270	saccharin
+cpd_271	salicylate
+cpd_272	sebacate
+cpd_273	serine
+cpd_274	shikimate
+cpd_275	sorbitol
+cpd_276	suberate
+cpd_277	succinate
+cpd_278	tartarate
+cpd_279	taurine
+cpd_280	tetrahydro-1-methyl-beta-carboline-3-carboxylate
+cpd_281	threonine
+cpd_282	thymine
+cpd_283	tryptophan
+cpd_284	tyrosine
+cpd_285	UMP
+cpd_286	uracil
+cpd_287	urate
+cpd_288	uridine
+cpd_289	valerate/isovalerate
+cpd_290	xanthine
+cpd_291	xanthurenate
+cpd_292	xylose
+cpd_293	10-heptadecenoate
+cpd_294	10-nonadecenoate
+cpd_295	12.13-diHOME
+cpd_296	1.2.3.4-tetrahydro-beta-carboline-1.3-dicarboxylate
+cpd_297	13-cis-retinoic acid
+cpd_298	13-docosenoate
+cpd_299	17-methylstearate
+cpd_300	2-hydroxyhexadecanoate
+cpd_301	2-hydroxyibuprofen
+cpd_302	2-hydroxyoctanoate
+cpd_303	3-hydroxydecanoate
+cpd_304	3-hydroxyoctanoate
+cpd_305	4-hydroxystyrene
+cpd_306	9.10-diHOME
+cpd_307	acesulfame
+cpd_308	acetytyrosine
+cpd_309	adrenate
+cpd_310	alpha-CEHC
+cpd_311	alpha-linolenate
+cpd_312	alpha-muricholate
+cpd_313	arachidate
+cpd_314	arachidonate
+cpd_315	azelate
+cpd_316	caprate
+cpd_317	caproate
+cpd_318	carboxyibuprofen
+cpd_319	carnosol
+cpd_320	carnosol_isomer
+cpd_321	cetrizine
+cpd_322	chenodeoxycholate
+cpd_323	cholate
+cpd_324	crustecdysone
+cpd_325	deoxycholate
+cpd_326	docosahexaenoate
+cpd_327	docosapentaenoate
+cpd_328	dodecanedioate
+cpd_329	dodecanoate
+cpd_330	eicosadienoate
+cpd_331	eicosanedioate
+cpd_332	eicosapentaenoate
+cpd_333	eicosatrienoate
+cpd_334	eicosenoate
+cpd_335	furosemide
+cpd_336	glycochenodeoxycholate
+cpd_337	glycocholate
+cpd_338	glycodeoxycholate
+cpd_339	glycolithocholate
+cpd_340	glycoursodeoxycholate
+cpd_341	heptanoate
+cpd_342	hexadecanedioate
+cpd_343	hydrochlorothiazide
+cpd_344	hydrocinnamate
+cpd_345	hydroxymyristate
+cpd_346	hyodeoxycholate/ursodeoxycholate
+cpd_347	indoleacetate
+cpd_348	ketodeoxycholate
+cpd_349	linoleate
+cpd_350	lithocholate
+cpd_351	mandelate
+cpd_352	masilinate
+cpd_353	myristate
+cpd_354	myristoleate
+cpd_355	nervonic acid
+cpd_356	nonadecanoate
+cpd_357	oleanate
+cpd_358	oleate
+cpd_359	olmesartan
+cpd_360	oxymetazoline
+cpd_361	oxypurinol
+cpd_362	palmitate
+cpd_363	palmitoleate
+cpd_364	palmitoylethanolamide
+cpd_365	pentadecanoate
+cpd_366	phenyllactate
+cpd_367	p-hydroxyphenylacetate
+cpd_368	phytanate
+cpd_369	porphobilinogen
+cpd_370	saccharin
+cpd_371	salicylate
+cpd_372	sebacate
+cpd_373	stearate
+cpd_374	tauro-alpha-muricholate/tauro-beta-muricholate
+cpd_375	taurochenodeoxycholate
+cpd_376	taurocholate
+cpd_377	taurodeoxycholate
+cpd_378	taurohyodeoxycholate/tauroursodeoxycholate
+cpd_379	taurolithocholate
+cpd_380	tetradecanedioate
+cpd_381	theophylline
+cpd_382	undecanedionate
+cpd_383	urobilin
+cpd_384	5alpha-cholestan-3beta-ol
+cpd_385	beta-sitosterol
+cpd_386	C14:0 CE
+cpd_387	C14:0 LPC
+cpd_388	C16:0 CE
+cpd_389	C16:0 CE [M+NH4]+
+cpd_390	C16:0 Ceramide (d18:1)
+cpd_391	C16:0 LPC
+cpd_392	C16:0 LPE
+cpd_393	C16:0 SM
+cpd_394	C16:1 CE
+cpd_395	C16:1 CE [M+NH4]+
+cpd_396	C16:1 LPC
+cpd_397	C16:1 LPE
+cpd_398	C16:1 MAG
+cpd_399	C16:1 MAG [M+NH4]+
+cpd_400	C16:1 SM
+cpd_401	C18:0 CE
+cpd_402	C18:0 CE [M+NH4]+
+cpd_403	C18:0 LPC
+cpd_404	C18:0 LPE
+cpd_405	C18:0 MAG
+cpd_406	C18:0 MAG [M+NH4]+
+cpd_407	C18:0 SM
+cpd_408	C18:1 CE
+cpd_409	C18:1 CE [M+NH4]+
+cpd_410	C18:1 LPC
+cpd_411	C18:1 LPE
+cpd_412	C18:1 SM
+cpd_413	C18:2 CE
+cpd_414	C18:2 CE [M+NH4]+
+cpd_415	C18:2 LPC
+cpd_416	C18:2 LPE
+cpd_417	C18:3 CE
+cpd_418	C18:3 CE [M+NH4]+
+cpd_419	C20:0 LPE
+cpd_420	C20:0 SM
+cpd_421	C20:3 CE
+cpd_422	C20:3 CE [M+NH4]+
+cpd_423	C20:3 LPC
+cpd_424	C20:4 CE
+cpd_425	C20:4 CE [M+NH4]+
+cpd_426	C20:4 LPC
+cpd_427	C20:4 LPE
+cpd_428	C20:5 CE
+cpd_429	C20:5 CE [M+NH4]+
+cpd_430	C20:5 LPC
+cpd_431	C22:0 Ceramide (d18:1)
+cpd_432	C22:0 LPE
+cpd_433	C22:0 SM
+cpd_434	C22:1 MAG
+cpd_435	C22:1 MAG [M+NH4]+
+cpd_436	C22:1 SM
+cpd_437	C22:4 CE
+cpd_438	C22:4 CE [M+NH4]+
+cpd_439	C22:5 CE
+cpd_440	C22:5 CE [M+NH4]+
+cpd_441	C22:6 CE
+cpd_442	C22:6 CE [M+NH4]+
+cpd_443	C22:6 LPC
+cpd_444	C24:0 Ceramide (d18:1)
+cpd_445	C24:0 SM
+cpd_446	C24:1 Ceramide (d18:1)
+cpd_447	C24:1 SM
+cpd_448	C2 Ceramide (d18:1)
+cpd_449	C30:0 DAG
+cpd_450	C30:0 PC
+cpd_451	C32:0 DAG
+cpd_452	C32:0 PC
+cpd_453	C32:0 PE
+cpd_454	C32:1 DAG
+cpd_455	C32:1 DAG [M+NH4]+
+cpd_456	C32:1 PC
+cpd_457	C32:2 DAG
+cpd_458	C32:2 DAG [M+NH4]+
+cpd_459	C34:0 DAG
+cpd_460	C34:0 PC
+cpd_461	C34:0 PE
+cpd_462	C34:1 DAG
+cpd_463	C34:1 DAG [M+NH4]+
+cpd_464	C34:1 PC
+cpd_465	C34:1 PC plasmalogen
+cpd_466	C34:2 DAG
+cpd_467	C34:2 DAG [M+NH4]+
+cpd_468	C34:2 PC
+cpd_469	C34:2 PC plasmalogen
+cpd_470	C34:3 DAG
+cpd_471	C34:3 DAG [M+NH4]+
+cpd_472	C34:3 PC
+cpd_473	C34:4 PC plasmalogen
+cpd_474	C36:0 DAG
+cpd_475	C36:0 DAG [M+NH4]+
+cpd_476	C36:1 DAG
+cpd_477	C36:1 DAG [M+NH4]+
+cpd_478	C36:1 PC
+cpd_479	C36:1 PC plasmalogen
+cpd_480	C36:2 DAG
+cpd_481	C36:2 DAG [M+NH4]+
+cpd_482	C36:2 PC
+cpd_483	C36:2 PC plasmalogen
+cpd_484	C36:3 DAG
+cpd_485	C36:3 DAG [M+NH4]+
+cpd_486	C36:3 PC
+cpd_487	C36:4 DAG
+cpd_488	C36:4 DAG [M+NH4]+
+cpd_489	C36:4 PC-A
+cpd_490	C36:4 PC-B
+cpd_491	C36:4 PC plasmalogen
+cpd_492	C36:5 PC plasmalogen
+cpd_493	C38:2 PC
+cpd_494	C38:3 PC
+cpd_495	C38:4 DAG [M+NH4]+
+cpd_496	C38:4 PC
+cpd_497	C38:4 PC plasmalogen
+cpd_498	C38:5 DAG
+cpd_499	C38:5 DAG [M+NH4]+
+cpd_500	C38:6 PC
+cpd_501	C42:0 TAG
+cpd_502	C42:0 TAG [M+NH4]+
+cpd_503	C44:0 TAG
+cpd_504	C44:0 TAG [M+NH4]+
+cpd_505	C44:1 TAG
+cpd_506	C44:1 TAG [M+NH4]+
+cpd_507	C44:2 TAG
+cpd_508	C44:2 TAG [M+NH4]+
+cpd_509	C45:0 TAG
+cpd_510	C46:0 TAG
+cpd_511	C46:0 TAG [M+NH4]+
+cpd_512	C46:1 TAG
+cpd_513	C46:1 TAG [M+NH4]+
+cpd_514	C46:2 TAG
+cpd_515	C46:2 TAG [M+NH4]+
+cpd_516	C46:3 TAG
+cpd_517	C46:3 TAG [M+NH4]+
+cpd_518	C48:0 TAG
+cpd_519	C48:0 TAG [M+NH4]+
+cpd_520	C48:1 TAG
+cpd_521	C48:1 TAG [M+NH4]+
+cpd_522	C48:2 TAG
+cpd_523	C48:2 TAG [M+NH4]+
+cpd_524	C48:3 TAG
+cpd_525	C48:3 TAG [M+NH4]+
+cpd_526	C48:4 TAG
+cpd_527	C48:4 TAG [M+NH4]+
+cpd_528	C49:1 TAG [M+NH4]+
+cpd_529	C50:0 TAG
+cpd_530	C50:0 TAG [M+NH4]+
+cpd_531	C50:1 TAG
+cpd_532	C50:1 TAG [M+NH4]+
+cpd_533	C50:2 TAG
+cpd_534	C50:2 TAG [M+NH4]+
+cpd_535	C50:3 TAG
+cpd_536	C50:3 TAG [M+NH4]+
+cpd_537	C50:4 TAG
+cpd_538	C50:4 TAG [M+NH4]+
+cpd_539	C50:5 TAG
+cpd_540	C50:5 TAG [M+NH4]+
+cpd_541	C51:0 TAG
+cpd_542	C51:0 TAG [M+NH4]+
+cpd_543	C51:1 TAG
+cpd_544	C51:1 TAG [M+NH4]+
+cpd_545	C51:2 TAG
+cpd_546	C51:2 TAG [M+NH4]+
+cpd_547	C51:3 TAG
+cpd_548	C51:3 TAG [M+NH4]+
+cpd_549	C52:0 TAG
+cpd_550	C52:0 TAG [M+NH4]+
+cpd_551	C52:1 TAG
+cpd_552	C52:1 TAG [M+NH4]+
+cpd_553	C52:2 TAG
+cpd_554	C52:2 TAG [M+NH4]+
+cpd_555	C52:3 TAG
+cpd_556	C52:3 TAG [M+NH4]+
+cpd_557	C52:4 TAG
+cpd_558	C52:4 TAG [M+NH4]+
+cpd_559	C52:5 TAG
+cpd_560	C52:5 TAG [M+NH4]+
+cpd_561	C52:6 TAG
+cpd_562	C52:6 TAG [M+NH4]+
+cpd_563	C52:7 TAG
+cpd_564	C53:2 TAG [M+NH4]+
+cpd_565	C53:3 TAG
+cpd_566	C53:3 TAG [M+NH4]+
+cpd_567	C54:1 TAG
+cpd_568	C54:2 TAG
+cpd_569	C54:2 TAG [M+NH4]+
+cpd_570	C54:3 TAG
+cpd_571	C54:3 TAG [M+NH4]+
+cpd_572	C54:4 TAG
+cpd_573	C54:4 TAG [M+NH4]+
+cpd_574	C54:5 TAG
+cpd_575	C54:5 TAG [M+NH4]+
+cpd_576	C54:6 TAG
+cpd_577	C54:6 TAG [M+NH4]+
+cpd_578	C55:2 TAG
+cpd_579	C55:3 TAG
+cpd_580	C56:1 TAG
+cpd_581	C56:1 TAG [M+NH4]+
+cpd_582	C56:2 TAG
+cpd_583	C56:2 TAG [M+NH4]+
+cpd_584	C56:3 TAG
+cpd_585	C56:3 TAG [M+NH4]+
+cpd_586	C56:4 TAG
+cpd_587	C56:4 TAG [M+NH4]+
+cpd_588	C56:6 TAG
+cpd_589	C56:6 TAG [M+NH4]+
+cpd_590	C56:7 TAG
+cpd_591	C58:10 TAG
+cpd_592	cholesterol
+cpd_593	linoleoylethanolamide
+cpd_594	palmithoylethanolamide
+cpd_595	piperine
+cpd_596	sphingosine

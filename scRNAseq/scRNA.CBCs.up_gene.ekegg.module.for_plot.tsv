@@ -1,0 +1,9 @@
+Description	GeneRatio	pvalue
+"M00101:Cholesterol biosynthesis, FPP => cholesterol"	10/234	0.0002
+"M00102:Ergocalciferol biosynthesis, FPP => ergosterol/ergocalciferol"	7/234	0.0005
+"M00938:Pyrimidine deoxyribonucleotide biosynthesis, UDP => dTTP"	9/234	0.0014
+M00152:Cytochrome bc1 complex	8/234	0.0016
+"M00011:Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate"	9/234	0.003
+"M00143:NADH dehydrogenase (ubiquinone) Fe-S protein/flavoprotein complex, mitochondria"	8/234	0.0038
+"M00088:Ketone body biosynthesis, acetyl-CoA => acetoacetate/3-hydroxybutyrate/acetone"	6/234	0.0055
+M00072:N-glycosylation by oligosaccharyltransferase	5/234	0.0059

@@ -1,0 +1,85 @@
+node	type	enriched
+Acsl5	gene	none
+Rxrb	gene	none
+Acox1	gene	none
+Ppard	gene	none
+Fads2	gene	none
+Acaa1b	gene	none
+Fabp6	gene	bc
+Me1	gene	none
+Sorbs1	gene	none
+Hmgcs1	gene	none
+Cpt2	gene	none
+Acox3	gene	none
+Slc27a1	gene	none
+Acaa1a	gene	none
+Acsl3	gene	none
+Dbi	gene	none
+Scp2	gene	none
+Plin2	gene	none
+Slc27a4	gene	none
+Scd2	gene	none
+Pck2	gene	none
+Acadl	gene	none
+Ilk	gene	none
+Cyp27a1	gene	none
+Fabp4	gene	none
+Cpt1a	gene	none
+Acadm	gene	none
+Rxra	gene	none
+Ehhadh	gene	none
+Fabp2	gene	none
+Hmgcs2	gene	none
+2-Hydroxybutyric acid	metabolite	none
+Butyric acid	metabolite	bc
+Acetic acid	metabolite	bc
+Propionic acid	metabolite	none
+Adipic acid	metabolite	bc
+3-Methyladipic acid	metabolite	bc
+Dodecanedioic acid	metabolite	none
+Citraconic acid	metabolite	none
+Isocaproic acid	metabolite	bc
+L-2-Hydroxyglutaric acid	metabolite	none
+Hydroxyoctanoic acid	metabolite	none
+Hydroxyisocaproic acid	metabolite	none
+Methylglutaric acid	metabolite	none
+3-Hydroxyisovaleric acid	metabolite	bc
+Hydroxyphenyllactic acid	metabolite	none
+Azelaic acid	metabolite	bc
+Sebacic acid	metabolite	obs
+Myristic acid	metabolite	bc
+Pentadecanoic acid	metabolite	none
+Pimelic acid	metabolite	bc
+Monomethyl glutaric acid	metabolite	none
+Valeric acid	metabolite	bc
+Tridecanoic acid	metabolite	none
+Traumatic acid	metabolite	bc
+Arachidonic acid	metabolite	none
+alpha-Linolenic acid	metabolite	none
+2-Hydroxycaproic acid	metabolite	none
+Methylsuccinic acid	metabolite	none
+Isobutyric acid	metabolite	bc
+Aminocaproic acid	metabolite	none
+Eicosapentaenoic acid EPA	metabolite	none
+Myristoleic acid	metabolite	bc
+Heptacosanoic acid	metabolite	none
+Erucic acid	metabolite	none
+2,2-Dimethylsuccinic acid	metabolite	none
+Ethylmethylacetic acid	metabolite	bc
+Hexadecenoic Acid	metabolite	none
+Adrenic acid	metabolite	none
+3,3-Dimethylglutaric acid	metabolite	none
+Gamma-Linolenic acid	metabolite	none
+Linoelaidic acid	metabolite	none
+Muconic acid	metabolite	none
+But-2-enoic acid	metabolite	none
+Palmitelaidic acid	metabolite	none
+2-Methyl-4-pentenoic acid	metabolite	none
+2-Ethylhexanoic acid	metabolite	none
+11-Dodecenoic acid	metabolite	none
+Undecylenic acid	metabolite	none
+Dimethyl succinate	metabolite	none
+2-Hydroxy-4-(methylthio)butanoic acid	metabolite	none
+Dibutyl decanedioate	metabolite	bc
+10Z-Heptadecenoic acid	metabolite	none
+10-Heptadecenoic acid	metabolite	none

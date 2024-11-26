@@ -1,0 +1,11 @@
+ID	Description	GeneRatio	BgRatio	pvalue	p.adjust	qvalue	geneID	Count
+map00360:Phenylalanine metabolism	map00360:Phenylalanine metabolism	6/42	49/6413	6.18E-07	2.50E-05	1.79E-05	C00642/C07086/C11457/C05593/C03519/C05629	6
+map00350:Tyrosine metabolism	map00350:Tyrosine metabolism	4/42	78/6413	0.00159658	0.032330747	0.023108396	C00642/C00628/C05593/C00811	4
+map00643:Styrene degradation	map00643:Styrene degradation	2/42	24/6413	0.010549561	0.097576619	0.069742873	C07086/C05593	2
+map04973:Carbohydrate digestion and absorption	map04973:Carbohydrate digestion and absorption	2/42	27/6413	0.013251146	0.097576619	0.069742873	C00246/C00033	2
+map00780:Biotin metabolism	map00780:Biotin metabolism	2/42	29/6413	0.015201631	0.102611011	0.073341204	C00120/C02656	2
+map01065:Biosynthesis of alkaloids derived from histidine and purine	map01065:Biosynthesis of alkaloids derived from histidine and purine	2/42	35/6413	0.021734674	0.118999053	0.085054554	C08262/C00388	2
+"map00280:Valine, leucine and isoleucine degradation"	"map00280:Valine, leucine and isoleucine degradation"	2/42	42/6413	0.030560371	0.119032508	0.085078465	C02170/C20827	2
+map00052:Galactose metabolism	map00052:Galactose metabolism	2/42	46/6413	0.036139424	0.125298007	0.08955673	C01697/C00794	2
+map00650:Butanoate metabolism	map00650:Butanoate metabolism	2/42	47/6413	0.037591521	0.125298007	0.08955673	C01089/C00246	2
+map00760:Nicotinate and nicotinamide metabolism	map00760:Nicotinate and nicotinamide metabolism	2/42	55/6413	0.049981097	0.155710342	0.111293942	C00253/C01020	2
